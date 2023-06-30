@@ -1,0 +1,3163 @@
+[
+  {
+    "name": "Dungeon",
+    "source": "summary",
+    "layers": [
+      {
+        "icon": {
+          "url": "firetemple.png",
+          "width": 23,
+          "height": 27
+        },
+        "markers": [
+          {
+            "coords": [
+              2847,
+              1457
+            ],
+            "elv": -854.5,
+            "id": "LargeDungeonFire",
+            "name": "Fire Temple",
+            "link": "Fire Temple"
+          }
+        ]
+      },
+      {
+        "icon": {
+          "url": "spirittemple.png",
+          "width": 23,
+          "height": 27
+        },
+        "markers": [
+          {
+            "coords": [
+              -3170.39893,
+              1418.69202
+            ],
+            "elv": -618.599915,
+            "id": "LargeDungeonSoul",
+            "name": "Spirit Temple",
+            "link": "Spirit Temple (Tears of the Kingdom)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lightroot",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 1,
+        "icon": {
+          "url": "lightroot.png",
+          "width": 27,
+          "height": 24
+        },
+        "markers": [
+          {
+            "coords": [
+              -1008.14301,
+              343.389313
+            ],
+            "elv": -488.813202,
+            "id": "CheckPoint000",
+            "name": "Stakijat Lightroot",
+            "link": "Stakijat Lightroot"
+          },
+          {
+            "coords": [
+              2877.125,
+              4346.97607
+            ],
+            "elv": -628.641296,
+            "id": "CheckPoint001",
+            "name": "Ui-ihcoj Lightroot",
+            "link": "Ui-ihcoj Lightroot"
+          },
+          {
+            "coords": [
+              2596.93188,
+              2368.05298
+            ],
+            "elv": -969.341614,
+            "id": "CheckPoint002",
+            "name": "Mustis Lightroot",
+            "link": "Mustis Lightroot"
+          },
+          {
+            "coords": [
+              1616.86804,
+              -3077.60107
+            ],
+            "elv": -707.500122,
+            "id": "CheckPoint003",
+            "name": "Kawumoro Lightroot",
+            "link": "Kawumoro Lightroot"
+          },
+          {
+            "coords": [
+              -867.5,
+              -705.5
+            ],
+            "elv": -501.471588,
+            "id": "CheckPoint004",
+            "name": "Nihcayam Lightroot",
+            "link": "Nihcayam Lightroot"
+          },
+          {
+            "coords": [
+              2134.18701,
+              406.868988
+            ],
+            "elv": -612.687622,
+            "id": "CheckPoint005",
+            "name": "Rikonasum Lightroot",
+            "link": "Rikonasum Lightroot"
+          },
+          {
+            "coords": [
+              823.948792,
+              757.464172
+            ],
+            "elv": -552.30127,
+            "id": "CheckPoint006",
+            "name": "Zi-ner Lightroot",
+            "link": "Zi-ner Lightroot"
+          },
+          {
+            "coords": [
+              2385.5,
+              -3353.5
+            ],
+            "elv": -823.125122,
+            "id": "CheckPoint007",
+            "name": "Worihas Lightroot",
+            "link": "Worihas Lightroot"
+          },
+          {
+            "coords": [
+              -1363.84998,
+              -3406.30005
+            ],
+            "elv": -800.332275,
+            "id": "CheckPoint008",
+            "name": "Umamustor Lightroot",
+            "link": "Umamustor Lightroot"
+          },
+          {
+            "coords": [
+              -1512.44104,
+              -4638.18799
+            ],
+            "elv": -911.250122,
+            "id": "CheckPoint009",
+            "name": "Stamayam Lightroot",
+            "link": "Stamayam Lightroot"
+          },
+          {
+            "coords": [
+              1169.73596,
+              -177.854996
+            ],
+            "elv": -535.885132,
+            "id": "CheckPoint010",
+            "name": "Camobatures Lightroot",
+            "link": "Camobatures Lightroot"
+          },
+          {
+            "coords": [
+              419.852386,
+              3298.18799
+            ],
+            "elv": -769.754578,
+            "id": "CheckPoint011",
+            "name": "Kawagom Lightroot",
+            "link": "Kawagom Lightroot"
+          },
+          {
+            "coords": [
+              -2181.75195,
+              3469.76489
+            ],
+            "elv": -615.135803,
+            "id": "CheckPoint012",
+            "name": "Kimnaz Lightroot",
+            "link": "Kimnaz Lightroot"
+          },
+          {
+            "coords": [
+              -2277.3999,
+              867.5
+            ],
+            "elv": -576.848267,
+            "id": "CheckPoint013",
+            "name": "Muokuij Lightroot",
+            "link": "Muokuij Lightroot"
+          },
+          {
+            "coords": [
+              851.997314,
+              -3538.89502
+            ],
+            "elv": -596.663574,
+            "id": "CheckPoint014",
+            "name": "Koro-nui Lightroot",
+            "link": "Koro-nui Lightroot"
+          },
+          {
+            "coords": [
+              -2963.25806,
+              -3882.91211
+            ],
+            "elv": -454.864594,
+            "id": "CheckPoint016",
+            "name": "Gonatoyros Lightroot",
+            "link": "Gonatoyros Lightroot"
+          },
+          {
+            "coords": [
+              3733,
+              1269
+            ],
+            "elv": -573.937622,
+            "id": "CheckPoint017",
+            "name": "Kayam Lightroot",
+            "link": "Kayam Lightroot"
+          },
+          {
+            "coords": [
+              2115,
+              4512
+            ],
+            "elv": -473.787598,
+            "id": "CheckPoint018",
+            "name": "Kimimeg Lightroot",
+            "link": "Kimimeg Lightroot"
+          },
+          {
+            "coords": [
+              2642.46094,
+              -1637.52795
+            ],
+            "elv": -706.184326,
+            "id": "CheckPoint019",
+            "name": "Muihcoro Lightroot",
+            "link": "Muihcoro Lightroot"
+          },
+          {
+            "coords": [
+              756.718994,
+              -1415.61499
+            ],
+            "elv": -558.750122,
+            "id": "CheckPoint020",
+            "name": "Kawakanis Lightroot",
+            "link": "Kawakanis Lightroot"
+          },
+          {
+            "coords": [
+              2879.80493,
+              -4537.85986
+            ],
+            "elv": -728.125122,
+            "id": "CheckPoint021",
+            "name": "Nupisoyuat Lightroot",
+            "link": "Nupisoyuat Lightroot"
+          },
+          {
+            "coords": [
+              -251.975998,
+              915.732971
+            ],
+            "elv": -502.079803,
+            "id": "CheckPoint022",
+            "name": "Korakut Lightroot",
+            "link": "Korakut Lightroot"
+          },
+          {
+            "coords": [
+              2792.88501,
+              697.560974
+            ],
+            "elv": -691.937622,
+            "id": "CheckPoint023",
+            "name": "Uukukis Lightroot",
+            "link": "Uukukis Lightroot"
+          },
+          {
+            "coords": [
+              -3343.33496,
+              -2439.82593
+            ],
+            "elv": -485.510101,
+            "id": "CheckPoint024",
+            "name": "Amakawis Lightroot",
+            "link": "Amakawis Lightroot"
+          },
+          {
+            "coords": [
+              -214.528,
+              -3487.427
+            ],
+            "elv": -536.439941,
+            "id": "CheckPoint025",
+            "name": "Kawakarut Lightroot",
+            "link": "Kawakarut Lightroot"
+          },
+          {
+            "coords": [
+              -1616.15601,
+              -1442.39502
+            ],
+            "elv": -558.701111,
+            "id": "CheckPoint026",
+            "name": "Kogoir Lightroot",
+            "link": "Kogoir Lightroot"
+          },
+          {
+            "coords": [
+              -2177.37598,
+              4232.81982
+            ],
+            "elv": -542.109009,
+            "id": "CheckPoint027",
+            "name": "Kimimadena Lightroot",
+            "link": "Kimimadena Lightroot"
+          },
+          {
+            "coords": [
+              2602.31909,
+              -1167.90503
+            ],
+            "elv": -371.019287,
+            "id": "CheckPoint028",
+            "name": "Yisuayam Lightroot",
+            "link": "Yisuayam Lightroot"
+          },
+          {
+            "coords": [
+              423,
+              -878.5
+            ],
+            "elv": -517.93219,
+            "id": "CheckPoint029",
+            "name": "Gadohsi Lightroot",
+            "link": "Gadohsi Lightroot"
+          },
+          {
+            "coords": [
+              2088.81396,
+              -1106.73999
+            ],
+            "elv": -574.417114,
+            "id": "CheckPoint030",
+            "name": "Uoyoyuik Lightroot",
+            "link": "Uoyoyuik Lightroot"
+          },
+          {
+            "coords": [
+              1281.37195,
+              1063.05798
+            ],
+            "elv": -516.125122,
+            "id": "CheckPoint031",
+            "name": "Uihcoke Lightroot",
+            "link": "Uihcoke Lightroot"
+          },
+          {
+            "coords": [
+              -2186.44995,
+              -1080.70496
+            ],
+            "elv": -581.949341,
+            "id": "CheckPoint032",
+            "name": "Koradat Lightroot",
+            "link": "Koradat Lightroot"
+          },
+          {
+            "coords": [
+              -3624.78809,
+              -3728.64209
+            ],
+            "elv": -514.906372,
+            "id": "CheckPoint033",
+            "name": "Gataharak Lightroot",
+            "link": "Gataharak Lightroot"
+          },
+          {
+            "coords": [
+              1246.84595,
+              2568.26807
+            ],
+            "elv": -621.063721,
+            "id": "CheckPoint035",
+            "name": "Anonisik Lightroot",
+            "link": "Anonisik Lightroot"
+          },
+          {
+            "coords": [
+              3678,
+              -1403.5
+            ],
+            "elv": -733.088318,
+            "id": "CheckPoint036",
+            "name": "U-nazohso Lightroot",
+            "link": "U-nazohso Lightroot"
+          },
+          {
+            "coords": [
+              97.8768005,
+              -4154.08887
+            ],
+            "elv": -510.064606,
+            "id": "CheckPoint037",
+            "name": "Sasag Lightroot",
+            "link": "Sasag Lightroot"
+          },
+          {
+            "coords": [
+              -2237.68604,
+              -2656.33105
+            ],
+            "elv": -508.636108,
+            "id": "CheckPoint039",
+            "name": "Kimakarut Lightroot",
+            "link": "Kimakarut Lightroot"
+          },
+          {
+            "coords": [
+              1806.59998,
+              -3652.5
+            ],
+            "elv": -437.625092,
+            "id": "CheckPoint040",
+            "name": "Sikatag Lightroot",
+            "link": "Sikatag Lightroot"
+          },
+          {
+            "coords": [
+              578.27948,
+              3785.35107
+            ],
+            "elv": -946.796997,
+            "id": "CheckPoint041",
+            "name": "A-nehi Lightroot",
+            "link": "A-nehi Lightroot"
+          },
+          {
+            "coords": [
+              -1351.75403,
+              -1423.25
+            ],
+            "elv": -538.215332,
+            "id": "CheckPoint042",
+            "name": "Mu-ustust Lightroot",
+            "link": "Mu-ustust Lightroot"
+          },
+          {
+            "coords": [
+              3357.71704,
+              3431.06689
+            ],
+            "elv": -541.227905,
+            "id": "CheckPoint044",
+            "name": "Sikutamak Lightroot",
+            "link": "Sikutamak Lightroot"
+          },
+          {
+            "coords": [
+              1084.276,
+              221.115097
+            ],
+            "elv": -494.875092,
+            "id": "CheckPoint046",
+            "name": "Apapes Lightroot",
+            "link": "Apapes Lightroot"
+          },
+          {
+            "coords": [
+              -2511.38599,
+              -3291.198
+            ],
+            "elv": -496.281891,
+            "id": "CheckPoint047",
+            "name": "Tatayam Lightroot",
+            "link": "Tatayam Lightroot"
+          },
+          {
+            "coords": [
+              -433.137512,
+              -785
+            ],
+            "elv": -490.125092,
+            "id": "CheckPoint048",
+            "name": "Iayusus Lightroot",
+            "link": "Iayusus Lightroot"
+          },
+          {
+            "coords": [
+              -215.832199,
+              3886.34912
+            ],
+            "elv": -629.250122,
+            "id": "CheckPoint049",
+            "name": "Kegopa Lightroot",
+            "link": "Kegopa Lightroot"
+          },
+          {
+            "coords": [
+              1442.5,
+              3304
+            ],
+            "elv": -810.820007,
+            "id": "CheckPoint051",
+            "name": "Niuzimod Lightroot",
+            "link": "Niuzimod Lightroot"
+          },
+          {
+            "coords": [
+              2735.14209,
+              -396.575012
+            ],
+            "elv": -745.750122,
+            "id": "CheckPoint053",
+            "name": "Nikakik Lightroot",
+            "link": "Nikakik Lightroot"
+          },
+          {
+            "coords": [
+              3276.021,
+              2400.56689
+            ],
+            "elv": -865.192017,
+            "id": "CheckPoint054",
+            "name": "Katijabis Lightroot",
+            "link": "Katijabis Lightroot"
+          },
+          {
+            "coords": [
+              -3358.20801,
+              670.979675
+            ],
+            "elv": -504.303192,
+            "id": "CheckPoint056",
+            "name": "Kohsustu Lightroot",
+            "link": "Kohsustu Lightroot"
+          },
+          {
+            "coords": [
+              -1672.60706,
+              4267.47217
+            ],
+            "elv": -649.200317,
+            "id": "CheckPoint057",
+            "name": "Siakij Lightroot",
+            "link": "Siakij Lightroot"
+          },
+          {
+            "coords": [
+              -2928.5271,
+              -1531.172
+            ],
+            "elv": -751.612976,
+            "id": "CheckPoint058",
+            "name": "Kawatik Lightroot",
+            "link": "Kawatik Lightroot"
+          },
+          {
+            "coords": [
+              -359.5,
+              -1921.5
+            ],
+            "elv": -656.182312,
+            "id": "CheckPoint059",
+            "name": "Napanos Lightroot",
+            "link": "Napanos Lightroot"
+          },
+          {
+            "coords": [
+              2510.51001,
+              1763.00598
+            ],
+            "elv": -739.80249,
+            "id": "CheckPoint064",
+            "name": "Cugukaram Lightroot",
+            "link": "Cugukaram Lightroot"
+          },
+          {
+            "coords": [
+              1170,
+              -2529
+            ],
+            "elv": -643.661377,
+            "id": "CheckPoint065",
+            "name": "Tikanur Lightroot",
+            "link": "Tikanur Lightroot"
+          },
+          {
+            "coords": [
+              1989.20398,
+              -4057.83496
+            ],
+            "elv": -695.220276,
+            "id": "CheckPoint067",
+            "name": "So-oaw Lightroot",
+            "link": "So-oaw Lightroot"
+          },
+          {
+            "coords": [
+              -1551.15295,
+              -708.251526
+            ],
+            "elv": -537.687622,
+            "id": "CheckPoint068",
+            "name": "Nogukoyk Lightroot",
+            "link": "Nogukoyk Lightroot"
+          },
+          {
+            "coords": [
+              2200.5,
+              -2317.5
+            ],
+            "elv": -801.485596,
+            "id": "CheckPoint070",
+            "name": "Aduon Lightroot",
+            "link": "Aduon Lightroot"
+          },
+          {
+            "coords": [
+              3568.96411,
+              -3508.26392
+            ],
+            "elv": -847.267029,
+            "id": "CheckPoint072",
+            "name": "Muotue Lightroot",
+            "link": "Muotue Lightroot"
+          },
+          {
+            "coords": [
+              2843.02295,
+              1842.177
+            ],
+            "elv": -858.950195,
+            "id": "CheckPoint073",
+            "name": "Misisi Lightroot",
+            "link": "Misisi Lightroot"
+          },
+          {
+            "coords": [
+              1825,
+              3060.80811
+            ],
+            "elv": -683.397278,
+            "id": "CheckPoint074",
+            "name": "Gedihcayam Lightroot",
+            "link": "Gedihcayam Lightroot"
+          },
+          {
+            "coords": [
+              -672.305725,
+              -4469.55078
+            ],
+            "elv": -969.437622,
+            "id": "CheckPoint075",
+            "name": "Mustuto Lightroot",
+            "link": "Mustuto Lightroot"
+          },
+          {
+            "coords": [
+              -2544.04199,
+              1218.91895
+            ],
+            "elv": -632.562622,
+            "id": "CheckPoint076",
+            "name": "Sijotu Lightroot",
+            "link": "Sijotu Lightroot"
+          },
+          {
+            "coords": [
+              -1559,
+              -178.5
+            ],
+            "elv": -494.152496,
+            "id": "CheckPoint077",
+            "name": "Nuzimak Lightroot",
+            "link": "Nuzimak Lightroot"
+          },
+          {
+            "coords": [
+              -1769.60901,
+              -2525.12695
+            ],
+            "elv": -734.09613,
+            "id": "CheckPoint078",
+            "name": "Kawiraus Lightroot",
+            "link": "Kawiraus Lightroot"
+          },
+          {
+            "coords": [
+              -1852.41895,
+              -2037.14404
+            ],
+            "elv": -525.061035,
+            "id": "CheckPoint079",
+            "name": "Jadukakar Lightroot",
+            "link": "Jadukakar Lightroot"
+          },
+          {
+            "coords": [
+              1321.74805,
+              4166.81592
+            ],
+            "elv": -694.035889,
+            "id": "CheckPoint080",
+            "name": "Kawikatisar Lightroot",
+            "link": "Kawikatisar Lightroot"
+          },
+          {
+            "coords": [
+              -1482.46106,
+              3525.23511
+            ],
+            "elv": -632.783997,
+            "id": "CheckPoint081",
+            "name": "Usukaz Lightroot",
+            "link": "Usukaz Lightroot"
+          },
+          {
+            "coords": [
+              330.448486,
+              1201.39197
+            ],
+            "elv": -595.062622,
+            "id": "CheckPoint084",
+            "name": "Nojoj Lightroot",
+            "link": "Nojoj Lightroot"
+          },
+          {
+            "coords": [
+              -3269.48193,
+              2825.33008
+            ],
+            "elv": -547.062622,
+            "id": "CheckPoint085",
+            "name": "Mimufis Lightroot",
+            "link": "Mimufis Lightroot"
+          },
+          {
+            "coords": [
+              3713.84204,
+              -4389.60205
+            ],
+            "elv": -723.222229,
+            "id": "CheckPoint086",
+            "name": "Kato Lightroot",
+            "link": "Kato Lightroot"
+          },
+          {
+            "coords": [
+              -3086,
+              -4681
+            ],
+            "elv": -524.229736,
+            "id": "CheckPoint087",
+            "name": "Gonatoyrim Lightroot",
+            "link": "Gonatoyrim Lightroot"
+          },
+          {
+            "coords": [
+              3639.02905,
+              2864.625
+            ],
+            "elv": -705.687622,
+            "id": "CheckPoint088",
+            "name": "Tayamik Lightroot",
+            "link": "Tayamik Lightroot"
+          },
+          {
+            "coords": [
+              2758,
+              2961
+            ],
+            "elv": -983.986877,
+            "id": "CheckPoint089",
+            "name": "Kisomom Lightroot",
+            "link": "Kisomom Lightroot"
+          },
+          {
+            "coords": [
+              3732,
+              4654.5
+            ],
+            "elv": -400.469788,
+            "id": "CheckPoint090",
+            "name": "Kuhsagi Lightroot",
+            "link": "Kuhsagi Lightroot"
+          },
+          {
+            "coords": [
+              1196.20203,
+              -1829.349
+            ],
+            "elv": -743.625122,
+            "id": "CheckPoint091",
+            "name": "Nabahi-ikat Lightroot",
+            "link": "Nabahi-ikat Lightroot"
+          },
+          {
+            "coords": [
+              -2518.54907,
+              102.546501
+            ],
+            "elv": -434.682098,
+            "id": "CheckPoint092",
+            "name": "Amo-ne Lightroot",
+            "link": "Amo-ne Lightroot"
+          },
+          {
+            "coords": [
+              -612.31958,
+              4413.19092
+            ],
+            "elv": -534.062195,
+            "id": "CheckPoint094",
+            "name": "Kuzimoy Lightroot",
+            "link": "Kuzimoy Lightroot"
+          },
+          {
+            "coords": [
+              -2059.05005,
+              3728.45898
+            ],
+            "elv": -686.062622,
+            "id": "CheckPoint095",
+            "name": "Kisihayam Lightroot",
+            "link": "Kisihayam Lightroot"
+          },
+          {
+            "coords": [
+              -3497.96411,
+              -1795
+            ],
+            "elv": -477.529694,
+            "id": "CheckPoint096",
+            "name": "Sisustom Lightroot",
+            "link": "Sisustom Lightroot"
+          },
+          {
+            "coords": [
+              149.690308,
+              2276.45801
+            ],
+            "elv": -521.78479,
+            "id": "CheckPoint097",
+            "name": "Sekioam Lightroot",
+            "link": "Sekioam Lightroot"
+          },
+          {
+            "coords": [
+              1903.64001,
+              2679.82788
+            ],
+            "elv": -708.963379,
+            "id": "CheckPoint098",
+            "name": "Nipahsom Lightroot",
+            "link": "Nipahsom Lightroot"
+          },
+          {
+            "coords": [
+              -874.937073,
+              -2138.11011
+            ],
+            "elv": -563.223389,
+            "id": "CheckPoint100",
+            "name": "Muzasu Lightroot",
+            "link": "Muzasu Lightroot"
+          },
+          {
+            "coords": [
+              508,
+              2918.25
+            ],
+            "elv": -815.822083,
+            "id": "CheckPoint101",
+            "name": "Uinoj Lightroot",
+            "link": "Uinoj Lightroot"
+          },
+          {
+            "coords": [
+              3181.12793,
+              1835.06799
+            ],
+            "elv": -858.437622,
+            "id": "CheckPoint102",
+            "name": "Katoij Lightroot",
+            "link": "Katoij Lightroot"
+          },
+          {
+            "coords": [
+              1139.88,
+              -3951.65991
+            ],
+            "elv": -572.377563,
+            "id": "CheckPoint103",
+            "name": "Kataki Lightroot",
+            "link": "Kataki Lightroot"
+          },
+          {
+            "coords": [
+              -3005.5,
+              -3211
+            ],
+            "elv": -491.350586,
+            "id": "CheckPoint104",
+            "name": "Mihcihc Lightroot",
+            "link": "Mihcihc Lightroot"
+          },
+          {
+            "coords": [
+              1892.53406,
+              355.422394
+            ],
+            "elv": -646.356323,
+            "id": "CheckPoint106",
+            "name": "Sijnin Lightroot",
+            "link": "Sijnin Lightroot"
+          },
+          {
+            "coords": [
+              -2378.50488,
+              2303.24097
+            ],
+            "elv": -638.100403,
+            "id": "CheckPoint107",
+            "name": "Yikot Lightroot",
+            "link": "Yikot Lightroot"
+          },
+          {
+            "coords": [
+              2321.10791,
+              166.846298
+            ],
+            "elv": -646.288208,
+            "id": "CheckPoint108",
+            "name": "Ramobnukas Lightroot",
+            "link": "Ramobnukas Lightroot"
+          },
+          {
+            "coords": [
+              3100.82593,
+              -2998.43799
+            ],
+            "elv": -1026.89526,
+            "id": "CheckPoint111",
+            "name": "Mu-ufatur Lightroot",
+            "link": "Mu-ufatur Lightroot"
+          },
+          {
+            "coords": [
+              -1088.35303,
+              2755.96899
+            ],
+            "elv": -569.937622,
+            "id": "CheckPoint112",
+            "name": "Migo-o Lightroot",
+            "link": "Migo-o Lightroot"
+          },
+          {
+            "coords": [
+              -1185.89404,
+              3346.26709
+            ],
+            "elv": -630.500122,
+            "id": "CheckPoint113",
+            "name": "Uogoj Lightroot",
+            "link": "Uogoj Lightroot"
+          },
+          {
+            "coords": [
+              -3711.5481,
+              4630.28516
+            ],
+            "elv": -526.498657,
+            "id": "CheckPoint114",
+            "name": "Ni-iraram Lightroot",
+            "link": "Ni-iraram Lightroot"
+          },
+          {
+            "coords": [
+              2211.11304,
+              622.491699
+            ],
+            "elv": -632.185913,
+            "id": "CheckPoint115",
+            "name": "Eknupup Lightroot",
+            "link": "Eknupup Lightroot"
+          },
+          {
+            "coords": [
+              -3209.47412,
+              3092.99707
+            ],
+            "elv": -644.937622,
+            "id": "CheckPoint116",
+            "name": "Kotimab Lightroot",
+            "link": "Kotimab Lightroot"
+          },
+          {
+            "coords": [
+              -3826,
+              -4158
+            ],
+            "elv": -499.062592,
+            "id": "CheckPoint118",
+            "name": "Kasari Lightroot",
+            "link": "Kasari Lightroot"
+          },
+          {
+            "coords": [
+              -510.343994,
+              2360.32495
+            ],
+            "elv": -609.799194,
+            "id": "CheckPoint119",
+            "name": "Takaruk Lightroot",
+            "link": "Takaruk Lightroot"
+          },
+          {
+            "coords": [
+              -2052.08911,
+              350.121399
+            ],
+            "elv": -491.969299,
+            "id": "CheckPoint120",
+            "name": "Busus Lightroot",
+            "link": "Busus Lightroot"
+          },
+          {
+            "coords": [
+              -1944.99402,
+              1563.41504
+            ],
+            "elv": -484.528198,
+            "id": "CheckPoint122",
+            "name": "Sohse Lightroot",
+            "link": "Sohse Lightroot"
+          },
+          {
+            "coords": [
+              469.214508,
+              333.763
+            ],
+            "elv": -500.147095,
+            "id": "CheckPoint123",
+            "name": "Oyimay Lightroot",
+            "link": "Oyimay Lightroot"
+          },
+          {
+            "coords": [
+              -1115.66895,
+              -73.9161301
+            ],
+            "elv": -492.338806,
+            "id": "CheckPoint124",
+            "name": "Netinet Lightroot",
+            "link": "Netinet Lightroot"
+          },
+          {
+            "coords": [
+              3534.5,
+              -849.82312
+            ],
+            "elv": -636.781311,
+            "id": "CheckPoint125",
+            "name": "Ikatoayam Lightroot",
+            "link": "Ikatoayam Lightroot"
+          },
+          {
+            "coords": [
+              630.22998,
+              -2846.07007
+            ],
+            "elv": -642.375122,
+            "id": "CheckPoint126",
+            "name": "Sikurukam Lightroot",
+            "link": "Sikurukam Lightroot"
+          },
+          {
+            "coords": [
+              2300.49292,
+              3840.9939
+            ],
+            "elv": -508.365387,
+            "id": "CheckPoint129",
+            "name": "Akinatanis Lightroot",
+            "link": "Akinatanis Lightroot"
+          },
+          {
+            "coords": [
+              -1903.98999,
+              930.071472
+            ],
+            "elv": -480.687897,
+            "id": "CheckPoint130",
+            "name": "Uisihcoj Lightroot",
+            "link": "Uisihcoj Lightroot"
+          },
+          {
+            "coords": [
+              -3524,
+              -564
+            ],
+            "elv": -595.062622,
+            "id": "CheckPoint131",
+            "name": "Nikohsi Lightroot",
+            "link": "Nikohsi Lightroot"
+          },
+          {
+            "coords": [
+              3354.16895,
+              -2558.53198
+            ],
+            "elv": -710.625122,
+            "id": "CheckPoint132",
+            "name": "Narusis Lightroot",
+            "link": "Narusis Lightroot"
+          },
+          {
+            "coords": [
+              1549.85803,
+              -595.155884
+            ],
+            "elv": -619.74939,
+            "id": "CheckPoint133",
+            "name": "Netamnet Lightroot",
+            "link": "Netamnet Lightroot"
+          },
+          {
+            "coords": [
+              1219.19995,
+              3811.51294
+            ],
+            "elv": -557.187622,
+            "id": "CheckPoint134",
+            "name": "Agihi-ihcoj Lightroot",
+            "link": "Agihi-ihcoj Lightroot"
+          },
+          {
+            "coords": [
+              -1052.745,
+              1769.31299
+            ],
+            "elv": -629.066772,
+            "id": "CheckPoint135",
+            "name": "Arusakam Lightroot",
+            "link": "Arusakam Lightroot"
+          },
+          {
+            "coords": [
+              450.976013,
+              -204.283005
+            ],
+            "elv": -492.943787,
+            "id": "CheckPoint136",
+            "name": "Sinonoyk Lightroot",
+            "link": "Sinonoyk Lightroot"
+          },
+          {
+            "coords": [
+              1640.44104,
+              1799.97302
+            ],
+            "elv": -769.933411,
+            "id": "CheckPoint137",
+            "name": "Kawamit Lightroot",
+            "link": "Kawamit Lightroot"
+          },
+          {
+            "coords": [
+              18.1596394,
+              1742.84094
+            ],
+            "elv": -480.278809,
+            "id": "CheckPoint138",
+            "name": "Uasnoj Lightroot",
+            "link": "Uasnoj Lightroot"
+          },
+          {
+            "coords": [
+              3264,
+              4663.5
+            ],
+            "elv": -473.812592,
+            "id": "CheckPoint139",
+            "name": "Kawisar Lightroot",
+            "link": "Kawisar Lightroot"
+          },
+          {
+            "coords": [
+              -2142.15308,
+              -4168.95996
+            ],
+            "elv": -508.252197,
+            "id": "CheckPoint140",
+            "name": "Rasinaduk Lightroot",
+            "link": "Rasinaduk Lightroot"
+          },
+          {
+            "coords": [
+              -3577.53589,
+              1514.28796
+            ],
+            "elv": -550.35498,
+            "id": "CheckPoint141",
+            "name": "U-u-ujoj Lightroot",
+            "link": "U-u-ujoj Lightroot"
+          },
+          {
+            "coords": [
+              -372,
+              -240.485107
+            ],
+            "elv": -498.624115,
+            "id": "CheckPoint142",
+            "name": "Nisoij Lightroot",
+            "link": "Nisoij Lightroot"
+          },
+          {
+            "coords": [
+              827.288025,
+              4497.35107
+            ],
+            "elv": -556.13562,
+            "id": "CheckPoint143",
+            "name": "Sisinatag Lightroot",
+            "link": "Sisinatag Lightroot"
+          },
+          {
+            "coords": [
+              -778.903687,
+              1180.71106
+            ],
+            "elv": -520.59021,
+            "id": "CheckPoint144",
+            "name": "Korom Lightroot",
+            "link": "Korom Lightroot"
+          },
+          {
+            "coords": [
+              3483.68896,
+              394.152313
+            ],
+            "elv": -615.250122,
+            "id": "CheckPoint147",
+            "name": "Katenim Lightroot",
+            "link": "Katenim Lightroot"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Device Dispenser",
+    "source": "mapns",
+    "layers": [
+      {
+        "minZoom": 2,
+        "icon": {
+          "url": "dispenser.png",
+          "width": 36,
+          "height": 36
+        },
+        "markers": [
+          {
+            "coords": [
+              -2320.698,
+              1058.03894
+            ],
+            "elv": -552.983398,
+            "id": "RBox_Field_K_03",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              2640.771,
+              2190.61401
+            ],
+            "elv": -962.745483,
+            "id": "RBox_Field_F_02",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bargainer Statue",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 2,
+        "icon": {
+          "url": "bargainer.png",
+          "width": 29,
+          "height": 29
+        },
+        "markers": [
+          {
+            "coords": [
+              -1899.245,
+              -775.906311
+            ],
+            "zoomAdjustedCoords": {
+              "0": [
+                -1956.87097,
+                -756.469971
+              ],
+              "1": [
+                -1956.87097,
+                -756.469971
+              ],
+              "2": [
+                -1899.245,
+                -775.906311
+              ],
+              "3": [
+                -1899.245,
+                -775.906311
+              ],
+              "4": [
+                -1899.245,
+                -775.906311
+              ],
+              "5": [
+                -1899.245,
+                -775.906311
+              ],
+              "6": [
+                -1899.245,
+                -775.906311
+              ]
+            },
+            "elv": -557.461792,
+            "id": "DemonStatue_00",
+            "name": "Bargainer Statue",
+            "link": "Bargainer Statue"
+          },
+          {
+            "coords": [
+              -796.506287,
+              458.316193
+            ],
+            "elv": -469.959015,
+            "id": "DemonStatue_01",
+            "name": "Bargainer Statue",
+            "link": "Bargainer Statue"
+          },
+          {
+            "coords": [
+              2690.37305,
+              -1032.64697
+            ],
+            "elv": -266.246796,
+            "id": "DemonStatue_02",
+            "name": "Bargainer Statue",
+            "link": "Bargainer Statue"
+          },
+          {
+            "coords": [
+              -1333.93005,
+              3850.771
+            ],
+            "zoomAdjustedCoords": {
+              "3": [
+                -1333.70203,
+                3849.98511
+              ],
+              "4": [
+                -1333.70203,
+                3849.98511
+              ]
+            },
+            "elv": -850.759521,
+            "id": "DemonStatue_03",
+            "name": "Bargainer Statue",
+            "link": "Bargainer Statue"
+          },
+          {
+            "coords": [
+              -2398.97607,
+              883.004883
+            ],
+            "elv": -386.016388,
+            "id": "DemonStatue_04",
+            "name": "Bargainer Statue",
+            "link": "Bargainer Statue"
+          },
+          {
+            "coords": [
+              2604.20288,
+              3702.1499
+            ],
+            "elv": -411.649902,
+            "id": "DemonStatue_05",
+            "name": "Bargainer Statue",
+            "link": "Bargainer Statue"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "General Store",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 2,
+        "icon": {
+          "url": "general.png",
+          "width": 29,
+          "height": 29
+        },
+        "markers": [
+          {
+            "coords": [
+              -3375.74707,
+              1356.91296
+            ],
+            "elv": -736.973816,
+            "id": "ForgeShopGolem",
+            "name": "Smithing Construct",
+            "link": "Smithing Construct"
+          },
+          {
+            "coords": [
+              -2960.99292,
+              -3810.27197
+            ],
+            "zoomAdjustedCoords": {
+              "0": [
+                -3062.6001,
+                -3810.48999
+              ],
+              "1": [
+                -3062.6001,
+                -3810.48999
+              ]
+            },
+            "elv": -487.393097,
+            "id": "SmeltShopGolem_01",
+            "name": "Forge Construct",
+            "link": "Forge Construct"
+          },
+          {
+            "coords": [
+              -2515.12695,
+              -3190.32007
+            ],
+            "elv": -475.160004,
+            "id": "SmeltShopGolem_02",
+            "name": "Forge Construct",
+            "link": "Forge Construct"
+          },
+          {
+            "coords": [
+              556.71228,
+              3243.86597
+            ],
+            "elv": -749.922424,
+            "id": "SmeltShopGolem_03",
+            "name": "Forge Construct",
+            "link": "Forge Construct"
+          },
+          {
+            "coords": [
+              1917.104,
+              -3463.40405
+            ],
+            "zoomAdjustedCoords": {
+              "0": [
+                1846.76599,
+                -3423.90698
+              ],
+              "1": [
+                1846.76599,
+                -3423.90698
+              ]
+            },
+            "elv": -416.521912,
+            "id": "SmeltShopGolem_04",
+            "name": "Forge Construct",
+            "link": "Forge Construct"
+          },
+          {
+            "coords": [
+              2382.51489,
+              1697.77002
+            ],
+            "zoomAdjustedCoords": {
+              "0": [
+                2279.71704,
+                1675.63
+              ],
+              "1": [
+                2279.71704,
+                1675.63
+              ]
+            },
+            "elv": -823.848999,
+            "id": "SmeltShopGolem_05",
+            "name": "Forge Construct",
+            "link": "Forge Construct"
+          },
+          {
+            "coords": [
+              1557.18298,
+              3957.39795
+            ],
+            "zoomAdjustedCoords": {
+              "0": [
+                1400.948,
+                3968.26294
+              ],
+              "1": [
+                1400.948,
+                3968.26294
+              ]
+            },
+            "elv": -575.833008,
+            "id": "SmeltShopGolem_06",
+            "name": "Forge Construct",
+            "link": "Forge Construct"
+          },
+          {
+            "coords": [
+              -1178.61499,
+              1767.34497
+            ],
+            "elv": -628.655029,
+            "id": "SmeltShopGolem_07",
+            "name": "Forge Construct",
+            "link": "Forge Construct"
+          },
+          {
+            "coords": [
+              -2185.28906,
+              3526.71997
+            ],
+            "elv": -587.5,
+            "id": "SmeltShopGolem_08",
+            "name": "Forge Construct",
+            "link": "Forge Construct"
+          },
+          {
+            "coords": [
+              -3379.31104,
+              2952.72998
+            ],
+            "elv": -452.531006,
+            "id": "SmeltShopGolem_09",
+            "name": "Forge Construct",
+            "link": "Forge Construct"
+          },
+          {
+            "coords": [
+              -1935.36096,
+              -856.231201
+            ],
+            "zoomAdjustedCoords": {
+              "2": [
+                -1935.36096,
+                -856.231201
+              ],
+              "3": [
+                -1935.36096,
+                -856.231201
+              ],
+              "4": [
+                -1935.36096,
+                -856.231201
+              ],
+              "5": [
+                -1935.36096,
+                -856.231201
+              ],
+              "6": [
+                -1935.36096,
+                -856.231201
+              ],
+              "0": [
+                -1970,
+                -856.203003
+              ],
+              "1": [
+                -1970,
+                -856.203003
+              ]
+            },
+            "elv": -522.529602,
+            "id": "SmeltShopGolem_10",
+            "name": "Forge Construct",
+            "link": "Forge Construct"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Location",
+    "layers": [
+      {
+        "minZoom": 1,
+        "maxZoom": 1,
+        "markers": [
+          {
+            "coords": [
+              -1715,
+              -856.544373
+            ],
+            "elv": -434.767914,
+            "id": "MinusField_BluePrintShrine_1",
+            "name": "Great Abandoned Central Mine",
+            "link": "Great Abandoned Central Mine"
+          },
+          {
+            "coords": [
+              -2719.52588,
+              -3834.43311
+            ],
+            "elv": -491.523285,
+            "id": "MinusField_Gerudo_2",
+            "name": "Abandoned Gerudo Mine",
+            "link": "Abandoned Gerudo Mine"
+          },
+          {
+            "coords": [
+              2052.23706,
+              1684.58899
+            ],
+            "elv": -751.070129,
+            "id": "MinusField_Goron_3",
+            "name": "Abandoned Eldin Mine",
+            "link": "Abandoned Eldin Mine"
+          },
+          {
+            "coords": [
+              -2509.51196,
+              3555.0249
+            ],
+            "elv": -456.694092,
+            "id": "MinusField_Hateno_3",
+            "name": "Abandoned Hateno Mine",
+            "link": "Abandoned Hateno Mine"
+          },
+          {
+            "coords": [
+              -1406.13403,
+              1816.76501
+            ],
+            "elv": -560.507813,
+            "id": "MinusField_Kakariko_3",
+            "name": "Abandoned Kakariko Mine",
+            "link": "Abandoned Kakariko Mine"
+          },
+          {
+            "coords": [
+              -1987.88403,
+              -3094.20898
+            ],
+            "elv": -443.898102,
+            "id": "MinusField_Oasis_2",
+            "name": "Abandoned Kara Kara Mine",
+            "link": "Abandoned Kara Kara Mine"
+          },
+          {
+            "coords": [
+              2167.80298,
+              -3467.79492
+            ],
+            "elv": -380.770691,
+            "id": "MinusField_Rito_1",
+            "name": "Abandoned Hebra Mine",
+            "link": "Abandoned Hebra Mine"
+          },
+          {
+            "coords": [
+              -3605.92212,
+              2966.97803
+            ],
+            "elv": -305,
+            "id": "MinusField_Taura",
+            "name": "Abandoned Lurelin Mine",
+            "link": "Abandoned Lurelin Mine"
+          },
+          {
+            "coords": [
+              1715.30896,
+              3968.79712
+            ],
+            "elv": -305,
+            "id": "MinusField_UMiiVillage",
+            "name": "Abandoned Tarrey Mine",
+            "link": "Abandoned Tarrey Mine"
+          },
+          {
+            "coords": [
+              935.924622,
+              3170.45801
+            ],
+            "elv": -676.280884,
+            "id": "MinusField_WhiteZora",
+            "name": "Abandoned Lanayru Mine",
+            "link": "Abandoned Lanayru Mine"
+          }
+        ]
+      },
+      {
+        "minZoom": 4,
+        "markers": [
+          {
+            "coords": [
+              -728.294983,
+              -4785.71289
+            ],
+            "elv": -1214.30701,
+            "id": "MinusField_AagetoMt",
+            "name": "Agaat Canyon Mine",
+            "link": "Agaat Canyon Mine"
+          },
+          {
+            "coords": [
+              -3734.84595,
+              3728.74902
+            ],
+            "elv": -606.286804,
+            "id": "MinusField_CresiaPeninsula",
+            "name": "Cresia Pit Mine",
+            "link": "Cresia Pit Mine"
+          },
+          {
+            "coords": [
+              -3276.34912,
+              3152.5271
+            ],
+            "elv": -708.760681,
+            "id": "MinusField_DasukidaMt",
+            "name": "Dunsel Canyon Mine",
+            "link": "Dunsel Canyon Mine"
+          },
+          {
+            "coords": [
+              -3737.15991,
+              -4098.50684
+            ],
+            "elv": -529.053589,
+            "id": "MinusField_DesertGrave",
+            "name": "Gerudo Underground Cemetery",
+            "link": "Gerudo Underground Cemetery"
+          },
+          {
+            "coords": [
+              -2088.69409,
+              -1801.62
+            ],
+            "elv": -602.250366,
+            "id": "MinusField_FenaMt",
+            "name": "Nabooru Canyon Mine",
+            "link": "Nabooru Canyon Mine"
+          },
+          {
+            "coords": [
+              2433.00293,
+              -114.678703
+            ],
+            "elv": -632.806519,
+            "id": "MinusField_ForestColosseum",
+            "name": "Forest Coliseum",
+            "link": "Forest Coliseum"
+          },
+          {
+            "coords": [
+              -31.5325909,
+              3294.28809
+            ],
+            "elv": -840.199524,
+            "id": "MinusField_GibururuMt",
+            "name": "Ruto Canyon Mine",
+            "link": "Ruto Canyon Mine"
+          },
+          {
+            "coords": [
+              -2779.30005,
+              1936.36694
+            ],
+            "elv": -853.60907,
+            "id": "MinusField_GimpoMt",
+            "name": "Floria Canyon Mine",
+            "link": "Floria Canyon Mine"
+          },
+          {
+            "coords": [
+              -3504.12598,
+              2589.26001
+            ],
+            "elv": -629.282288,
+            "id": "MinusField_GobyLake",
+            "name": "Ancient Observation Deck",
+            "link": "Ancient Observation Deck"
+          },
+          {
+            "coords": [
+              -2483.17407,
+              2511.98511
+            ],
+            "elv": -502.226807,
+            "id": "MinusField_HimeidaMt",
+            "name": "Meda Canyon Mine",
+            "link": "Meda Canyon Mine"
+          },
+          {
+            "coords": [
+              -2200.72607,
+              2367.63892
+            ],
+            "elv": -596.716919,
+            "id": "MinusField_JijigegeMt",
+            "name": "Rozudo Canyon Mine",
+            "link": "Rozudo Canyon Mine"
+          },
+          {
+            "coords": [
+              -2601.31201,
+              -970.561218
+            ],
+            "elv": -682.272278,
+            "id": "MinusField_KapporeMt",
+            "name": "Faloraa Canyon Mine",
+            "link": "Faloraa Canyon Mine"
+          },
+          {
+            "coords": [
+              -2556.25806,
+              905.984924
+            ],
+            "elv": -466.803986,
+            "id": "MinusField_KazuryuLake",
+            "name": "Dracozu Altar",
+            "link": "Dracozu Altar"
+          },
+          {
+            "coords": [
+              -1403.86206,
+              2934.79004
+            ],
+            "elv": -838.880493,
+            "id": "MinusField_KimarikaMt",
+            "name": "Canyon of Awakening Mine",
+            "link": "Canyon of Awakening Mine"
+          },
+          {
+            "coords": [
+              785.143005,
+              -2687.19507
+            ],
+            "elv": -782.705811,
+            "id": "MinusField_KutiffMt",
+            "name": "Rhoam Canyon Mine",
+            "link": "Rhoam Canyon Mine"
+          },
+          {
+            "coords": [
+              3564.73511,
+              4661.56592
+            ],
+            "elv": -400.469788,
+            "id": "MinusField_LomeiIsland",
+            "name": "Lomei Depths Labyrinth",
+            "link": "Lomei Depths Labyrinth"
+          },
+          {
+            "coords": [
+              3433.97192,
+              -814.745728
+            ],
+            "elv": -682.252075,
+            "id": "MinusField_LomeiNorth",
+            "name": "North Lomei Depths Labyrinth",
+            "link": "North Lomei Depths Labyrinth"
+          },
+          {
+            "coords": [
+              -3579.20093,
+              -1795
+            ],
+            "elv": -538.278992,
+            "id": "MinusField_LomeiSouth",
+            "name": "South Lomei Depths Labyrinth",
+            "link": "South Lomei Depths Labyrinth"
+          },
+          {
+            "coords": [
+              504.071411,
+              3780.85596
+            ],
+            "elv": -1035.7666,
+            "id": "MinusField_MemeMt",
+            "name": "Ploymus Canyon Mine",
+            "link": "Ploymus Canyon Mine"
+          },
+          {
+            "coords": [
+              -1911.83301,
+              4222.83008
+            ],
+            "elv": -803.381104,
+            "id": "MinusField_MizemakuMt",
+            "name": "Walnot Canyon Mine",
+            "link": "Walnot Canyon Mine"
+          },
+          {
+            "coords": [
+              2043.72205,
+              3682.95093
+            ],
+            "elv": -659.460693,
+            "id": "MinusField_MoriMt",
+            "name": "Ulri Canyon Mine",
+            "link": "Ulri Canyon Mine"
+          },
+          {
+            "coords": [
+              -3603.86206,
+              -1390.61694
+            ],
+            "elv": -916.965698,
+            "id": "MinusField_MorudaMt",
+            "name": "Daval Canyon Mine",
+            "link": "Daval Canyon Mine"
+          },
+          {
+            "coords": [
+              -3363.46094,
+              -1380.50098
+            ],
+            "elv": -951.772583,
+            "id": "MinusField_MorugaMt",
+            "name": "Granajh Canyon Mine",
+            "link": "Granajh Canyon Mine"
+          },
+          {
+            "coords": [
+              -2513.85498,
+              3328.71509
+            ],
+            "elv": -776.6073,
+            "id": "MinusField_PongagaMt",
+            "name": "Ebon Canyon Mine",
+            "link": "Ebon Canyon Mine"
+          },
+          {
+            "coords": [
+              2583.93091,
+              -561.293884
+            ],
+            "elv": -843.167297,
+            "id": "MinusField_RirimukuMt",
+            "name": "Drena Canyon Mine",
+            "link": "Drena Canyon Mine"
+          },
+          {
+            "coords": [
+              -1668.45996,
+              3888.823
+            ],
+            "elv": -864.906982,
+            "id": "MinusField_RokomakuMt",
+            "name": "Madorna Canyon Mine",
+            "link": "Madorna Canyon Mine"
+          },
+          {
+            "coords": [
+              210.050598,
+              -962.376221
+            ],
+            "elv": -592.971313,
+            "id": "MinusField_SaiMt",
+            "name": "Gustaf Canyon Mine",
+            "link": "Gustaf Canyon Mine"
+          },
+          {
+            "coords": [
+              -2672.87207,
+              2500.49097
+            ],
+            "elv": -732.570923,
+            "id": "MinusField_TerumeMt",
+            "name": "Taran Canyon Mine",
+            "link": "Taran Canyon Mine"
+          },
+          {
+            "coords": [
+              -2174.23193,
+              868.68457
+            ],
+            "elv": -570.196045,
+            "id": "ZonauCentralShrine",
+            "name": "Construct Factory",
+            "link": "Construct Factory"
+          },
+          {
+            "coords": [
+              -2431.67407,
+              706.112488
+            ],
+            "elv": -523.562866,
+            "id": "ZonauSatelliteShrine_LeftArm",
+            "name": "Left-Arm Depot",
+            "link": "Left-Arm Depot"
+          },
+          {
+            "coords": [
+              -2292.63501,
+              1016.37097
+            ],
+            "elv": -532.776001,
+            "id": "ZonauSatelliteShrine_LeftLeg",
+            "name": "Left-Leg Depot",
+            "link": "Left-Leg Depot"
+          },
+          {
+            "coords": [
+              -2111.55298,
+              569.083618
+            ],
+            "elv": -508.402496,
+            "id": "ZonauSatelliteShrine_RightArm",
+            "name": "Right-Arm Depot",
+            "link": "Right-Arm Depot"
+          },
+          {
+            "coords": [
+              -2116.552,
+              1143.63794
+            ],
+            "elv": -439.580414,
+            "id": "ZonauSatelliteShrine_RightLeg",
+            "name": "Right-Leg Depot",
+            "link": "Right-Leg Depot"
+          },
+          {
+            "coords": [
+              3465.21997,
+              -4342.76416
+            ],
+            "elv": -920.119629,
+            "id": "MinusField_KingfisherSpa",
+            "name": "Sherfin\u0027s Lavafalls",
+            "link": "Sherfin\u0027s Lavafalls"
+          },
+          {
+            "coords": [
+              2714.68091,
+              -4083.87305
+            ],
+            "elv": -562.620483,
+            "id": "MinusField_KumSpa",
+            "name": "Sturnida Lavafalls",
+            "link": "Sturnida Lavafalls"
+          },
+          {
+            "coords": [
+              -3684.94702,
+              -4619.01318
+            ],
+            "elv": -529.413513,
+            "id": "MinusField_GerudoFossil",
+            "name": "Gerudo Dark Skeleton",
+            "link": "Gerudo Dark Skeleton"
+          },
+          {
+            "coords": [
+              3635.71509,
+              -3850.53003
+            ],
+            "elv": -940.445801,
+            "id": "MinusField_HeburaFossil",
+            "name": "Hebra Dark Skeleton",
+            "link": "Hebra Dark Skeleton"
+          },
+          {
+            "coords": [
+              3707.104,
+              1518.05603
+            ],
+            "elv": -668.034912,
+            "id": "MinusField_OrdinFossil",
+            "name": "Eldin Dark Skeleton",
+            "link": "Eldin Dark Skeleton"
+          },
+          {
+            "coords": [
+              -367.005798,
+              -2288.01294
+            ],
+            "elv": -893.075012,
+            "id": "MinusField_PoponMt",
+            "name": "Blupee Burrow",
+            "link": "Blupee Burrow"
+          },
+          {
+            "coords": [
+              -1088.78296,
+              -2119.93091
+            ],
+            "elv": -444.134308,
+            "id": "MinusField_BarakkPlain",
+            "name": "Dalite Grove",
+            "link": "Dalite Grove"
+          },
+          {
+            "coords": [
+              -2056.677,
+              3219.90601
+            ],
+            "elv": -594.19812,
+            "id": "MinusField_BiginaTrees",
+            "name": "Ginner Grove",
+            "link": "Ginner Grove"
+          },
+          {
+            "coords": [
+              -2102.29907,
+              2019.71802
+            ],
+            "elv": -600.817627,
+            "id": "MinusField_BuibuiTrees",
+            "name": "Bubinga Grove",
+            "link": "Bubinga Grove"
+          },
+          {
+            "coords": [
+              -2027.68201,
+              3832.08496
+            ],
+            "elv": -457.722504,
+            "id": "MinusField_ExpaTrees",
+            "name": "Retsam Grove",
+            "link": "Retsam Grove"
+          },
+          {
+            "coords": [
+              -1680.38403,
+              -945.203613
+            ],
+            "elv": -669.200623,
+            "id": "MinusField_FairyForest",
+            "name": "Grove of Spirits",
+            "link": "Grove of Spirits"
+          },
+          {
+            "coords": [
+              3079.28003,
+              3358.71899
+            ],
+            "elv": -604.198486,
+            "id": "MinusField_GibogaHill",
+            "name": "Rok Grove",
+            "link": "Rok Grove"
+          },
+          {
+            "coords": [
+              1544.44995,
+              1042.21399
+            ],
+            "elv": -632.154297,
+            "id": "MinusField_KiyanbaTrees",
+            "name": "Minshi Grove",
+            "link": "Minshi Grove"
+          },
+          {
+            "coords": [
+              2100,
+              405.67691
+            ],
+            "elv": -559.685181,
+            "id": "MinusField_KorokForest",
+            "name": "Korok Grove",
+            "link": "Korok Grove"
+          },
+          {
+            "coords": [
+              -2187.14209,
+              3114.30688
+            ],
+            "elv": -572.284607,
+            "id": "MinusField_MiddleTrees",
+            "name": "Midla Grove",
+            "link": "Midla Grove"
+          },
+          {
+            "coords": [
+              -3539.60693,
+              -343.456299
+            ],
+            "elv": -574.146301,
+            "id": "MinusField_NezuppoTrees",
+            "name": "Pappetto Grove",
+            "link": "Pappetto Grove"
+          },
+          {
+            "coords": [
+              259.8237,
+              553.468201
+            ],
+            "elv": -609.828796,
+            "id": "MinusField_OngiForest",
+            "name": "Applean Grove",
+            "link": "Applean Grove"
+          },
+          {
+            "coords": [
+              -2391.83911,
+              1943.20203
+            ],
+            "elv": -594.571533,
+            "id": "MinusField_RiaroTrees",
+            "name": "Hickaly Grove",
+            "link": "Hickaly Grove"
+          },
+          {
+            "coords": [
+              -151.716995,
+              -1165.38501
+            ],
+            "elv": -601.360962,
+            "id": "MinusField_ShinikkyoForest",
+            "name": "Giant\u0027s Grove",
+            "link": "Giant\u0027s Grove"
+          },
+          {
+            "coords": [
+              171.555603,
+              2618.51489
+            ],
+            "elv": -630.622192,
+            "id": "MinusField_TagonaTrees",
+            "name": "Tabahl Grove",
+            "link": "Tabahl Grove"
+          },
+          {
+            "coords": [
+              -1544.12097,
+              -383.364899
+            ],
+            "elv": -515.203857,
+            "id": "MinusField_ZifForest",
+            "name": "Grove of Time",
+            "link": "Grove of Time"
+          },
+          {
+            "coords": [
+              -2488.26001,
+              903.536072
+            ],
+            "elv": -357.989807,
+            "id": "MinusField_BraveFountain",
+            "name": "Wellspring of Courage",
+            "link": "Wellspring of Courage"
+          },
+          {
+            "coords": [
+              2562.80298,
+              3733.14307
+            ],
+            "elv": -351.088013,
+            "id": "MinusField_PowerFountain",
+            "name": "Wellspring of Power",
+            "link": "Wellspring of Power"
+          },
+          {
+            "coords": [
+              -1898.03503,
+              -1098.55505
+            ],
+            "elv": -744.30719,
+            "id": "MinusField_StartPoint",
+            "name": "Secret Spring of Revival",
+            "link": "Secret Spring of Revival"
+          },
+          {
+            "coords": [
+              1041.27197,
+              -249.218201
+            ],
+            "elv": -1546.88501,
+            "id": "MinusField_GanondorfArea",
+            "name": "Gloom\u0027s Lair",
+            "link": "Gloom\u0027s Lair"
+          },
+          {
+            "coords": [
+              921.272522,
+              -249.218201
+            ],
+            "elv": -2476.88501,
+            "id": "MinusField_GanondorfEnd",
+            "name": "Gloom\u0027s Origin",
+            "link": "Gloom\u0027s Origin"
+          },
+          {
+            "coords": [
+              1007.82397,
+              -243.453506
+            ],
+            "elv": -852.801697,
+            "id": "MinusField_GanondorfEntrance",
+            "name": "Gloom\u0027s Approach",
+            "link": "Gloom\u0027s Approach"
+          },
+          {
+            "coords": [
+              876.272522,
+              -344.218201
+            ],
+            "elv": -1286.88501,
+            "id": "MinusField_OpeningField",
+            "name": "Forgotten Foundation",
+            "link": "Forgotten Foundation"
+          },
+          {
+            "coords": [
+              1046.31799,
+              -271.614014
+            ],
+            "elv": -1326.08398,
+            "id": "MinusField_OpeningFieldEnd",
+            "name": "Imprisoning Chamber",
+            "link": "Imprisoning Chamber"
+          }
+        ]
+      },
+      {
+        "minZoom": 2,
+        "maxZoom": 3,
+        "markers": [
+          {
+            "coords": [
+              -1701.12805,
+              -734.542297
+            ],
+            "elv": -425.653015,
+            "id": "MinusField_BluePrintShrine_2",
+            "name": "Great Abandoned Central Mine",
+            "link": "Great Abandoned Central Mine"
+          },
+          {
+            "coords": [
+              -2786.22998,
+              -3807.33301
+            ],
+            "elv": -388.525085,
+            "id": "MinusField_Gerudo_1",
+            "name": "Abandoned Gerudo Mine",
+            "link": "Abandoned Gerudo Mine"
+          },
+          {
+            "coords": [
+              2295.28906,
+              1642.18604
+            ],
+            "elv": -739.672607,
+            "id": "MinusField_Goron_1",
+            "name": "Abandoned Eldin Mine",
+            "link": "Abandoned Eldin Mine"
+          },
+          {
+            "coords": [
+              -2387.50098,
+              3581.18311
+            ],
+            "elv": -495.978485,
+            "id": "MinusField_Hateno_2",
+            "name": "Abandoned Hateno Mine",
+            "link": "Abandoned Hateno Mine"
+          },
+          {
+            "coords": [
+              -1299.06604,
+              1818.74695
+            ],
+            "elv": -565.927612,
+            "id": "MinusField_Kakariko",
+            "name": "Abandoned Kakariko Mine",
+            "link": "Abandoned Kakariko Mine"
+          },
+          {
+            "coords": [
+              -2311.03589,
+              -3171.49292
+            ],
+            "elv": -474.976013,
+            "id": "MinusField_Oasis",
+            "name": "Abandoned Kara Kara Mine",
+            "link": "Abandoned Kara Kara Mine"
+          },
+          {
+            "coords": [
+              2079.57202,
+              -3479.31812
+            ],
+            "elv": -396.919586,
+            "id": "MinusField_Rito_2",
+            "name": "Abandoned Hebra Mine",
+            "link": "Abandoned Hebra Mine"
+          },
+          {
+            "coords": [
+              -3479.95898,
+              2964.54102
+            ],
+            "elv": -352.981293,
+            "id": "MinusField_Taura_1",
+            "name": "Abandoned Lurelin Mine",
+            "link": "Abandoned Lurelin Mine"
+          },
+          {
+            "coords": [
+              1722.29004,
+              3966.28589
+            ],
+            "elv": -305,
+            "id": "MinusField_UMiiVillage_1",
+            "name": "Abandoned Tarrey Mine",
+            "link": "Abandoned Tarrey Mine"
+          },
+          {
+            "coords": [
+              719.360413,
+              3293.82007
+            ],
+            "elv": -478.077515,
+            "id": "MinusField_WhiteZora_3",
+            "name": "Abandoned Lanayru Mine",
+            "link": "Abandoned Lanayru Mine"
+          }
+        ]
+      },
+      {
+        "minZoom": 4,
+        "maxZoom": 4,
+        "markers": [
+          {
+            "coords": [
+              1565.59302,
+              3306.67505
+            ],
+            "elv": -509.429688,
+            "id": "MinusField_AkkareZhai_1",
+            "name": "Ancient Underground Fortress",
+            "link": "Ancient Underground Fortress"
+          },
+          {
+            "coords": [
+              -1204.94995,
+              -1151.50195
+            ],
+            "elv": -376.187714,
+            "id": "MinusField_AncientColosseum",
+            "name": "Floating Coliseum",
+            "link": "Floating Coliseum"
+          },
+          {
+            "coords": [
+              3079.55811,
+              328.125
+            ],
+            "elv": -461.859497,
+            "id": "MinusField_BlindForest_1",
+            "name": "Gleeok Den",
+            "link": "Gleeok Den"
+          },
+          {
+            "coords": [
+              -3565.68091,
+              4562.70215
+            ],
+            "elv": -353.723816,
+            "id": "MinusField_Cohorint_1",
+            "name": "Lone Island Coliseum",
+            "link": "Lone Island Coliseum"
+          },
+          {
+            "coords": [
+              381.126099,
+              1154.07495
+            ],
+            "elv": -522.177368,
+            "id": "MinusField_GashamahiMt",
+            "name": "Crenel Canyon Mine",
+            "link": "Crenel Canyon Mine"
+          },
+          {
+            "coords": [
+              -738.785583,
+              -4175.15723
+            ],
+            "elv": -1062.91809,
+            "id": "MinusField_GerudoSummit",
+            "name": "Gerudo Canyon Mine",
+            "link": "Gerudo Canyon Mine"
+          },
+          {
+            "coords": [
+              -3637.854,
+              2557.28296
+            ],
+            "elv": -515.18396,
+            "id": "MinusField_GobyMt_1",
+            "name": "Tuft Canyon Mine",
+            "link": "Tuft Canyon Mine"
+          },
+          {
+            "coords": [
+              -1838.04895,
+              2242.47412
+            ],
+            "elv": -355.728394,
+            "id": "MinusField_HatenoGate_1",
+            "name": "Secluded Coliseum",
+            "link": "Secluded Coliseum"
+          },
+          {
+            "coords": [
+              1407.27905,
+              -3810.88306
+            ],
+            "elv": -576.993408,
+            "id": "MinusField_HawkMt",
+            "name": "Cuho Canyon Mine",
+            "link": "Cuho Canyon Mine"
+          },
+          {
+            "coords": [
+              2861.43188,
+              -2740.86011
+            ],
+            "elv": -966.936584,
+            "id": "MinusField_HeburaPeak_1",
+            "name": "Hebra Canyon Mine",
+            "link": "Hebra Canyon Mine"
+          },
+          {
+            "coords": [
+              -2193.83691,
+              -1293.43799
+            ],
+            "elv": -604.165588,
+            "id": "MinusField_HyliaMt",
+            "name": "Hylia Canyon Mine",
+            "link": "Hylia Canyon Mine"
+          },
+          {
+            "coords": [
+              2359.26392,
+              -3322.18506
+            ],
+            "elv": -775.295227,
+            "id": "MinusField_KasuraMt",
+            "name": "Corvash Canyon Mine",
+            "link": "Corvash Canyon Mine"
+          },
+          {
+            "coords": [
+              1372.73999,
+              -2010.68994
+            ],
+            "elv": -704.641785,
+            "id": "MinusField_KikinosaMt_1",
+            "name": "Lindor Canyon Mine",
+            "link": "Lindor Canyon Mine"
+          },
+          {
+            "coords": [
+              -599.754089,
+              -1063.896
+            ],
+            "elv": -490.851196,
+            "id": "MinusField_KinshoiMt_1",
+            "name": "Daphnes Canyon Mine",
+            "link": "Daphnes Canyon Mine"
+          },
+          {
+            "coords": [
+              -1379.16895,
+              4003.33789
+            ],
+            "elv": -742.65332,
+            "id": "MinusField_LiveMountain",
+            "name": "Lanayru Canyon Mine",
+            "link": "Lanayru Canyon Mine"
+          },
+          {
+            "coords": [
+              3146.44995,
+              2143.05591
+            ],
+            "elv": -733.644287,
+            "id": "MinusField_LizardLake_1",
+            "name": "Scorching Coliseum",
+            "link": "Scorching Coliseum"
+          },
+          {
+            "coords": [
+              2077.70801,
+              4589.88477
+            ],
+            "elv": -286.299011,
+            "id": "MinusField_MacusePeninsula_1",
+            "name": "Rist Mine",
+            "link": "Rist Mine"
+          },
+          {
+            "coords": [
+              -3849.56592,
+              -4313.42188
+            ],
+            "elv": -362.533112,
+            "id": "MinusField_SouthGerudoLegacy_1",
+            "name": "Desert Coliseum",
+            "link": "Desert Coliseum"
+          },
+          {
+            "coords": [
+              -1850.06299,
+              1294.52698
+            ],
+            "elv": -685.185913,
+            "id": "MinusField_TwinsMountain",
+            "name": "Dueling Canyons Mine",
+            "link": "Dueling Canyons Mine"
+          },
+          {
+            "coords": [
+              3612,
+              -3398.88794
+            ],
+            "elv": -809.622314,
+            "id": "MinusField_FlamingoSpa",
+            "name": "Goflam\u0027s Lavafalls",
+            "link": "Goflam\u0027s Lavafalls"
+          },
+          {
+            "coords": [
+              -2340,
+              2234
+            ],
+            "elv": -555.51001,
+            "id": "MinusField_HimeidaSpa_1",
+            "name": "Meda Lavafalls",
+            "link": "Meda Lavafalls"
+          },
+          {
+            "coords": [
+              -830.915527,
+              455.988403
+            ],
+            "elv": -456.111115,
+            "id": "MinusField_AncientTimeShrine",
+            "name": "Plains Bargainer Statue",
+            "link": "Plains Bargainer Statue"
+          },
+          {
+            "coords": [
+              -1829.06299,
+              -732.698181
+            ],
+            "elv": -458.511414,
+            "id": "MinusField_BluePrintShrine_3",
+            "name": "Great Abandoned Central Mine",
+            "link": "Great Abandoned Central Mine"
+          },
+          {
+            "coords": [
+              3493.06299,
+              3253.87305
+            ],
+            "elv": -319.272888,
+            "id": "MinusField_DokuroPond",
+            "name": "Akkala House of Bones",
+            "link": "Akkala House of Bones"
+          },
+          {
+            "coords": [
+              -2885.2439,
+              -3806.9519
+            ],
+            "elv": -381.520599,
+            "id": "MinusField_Gerudo_3",
+            "name": "Abandoned Gerudo Mine",
+            "link": "Abandoned Gerudo Mine"
+          },
+          {
+            "coords": [
+              2345.87207,
+              1637.46204
+            ],
+            "elv": -742.456177,
+            "id": "MinusField_Goron_2",
+            "name": "Abandoned Eldin Mine",
+            "link": "Abandoned Eldin Mine"
+          },
+          {
+            "coords": [
+              -2228.45703,
+              3548.31812
+            ],
+            "elv": -484.640503,
+            "id": "MinusField_Hateno",
+            "name": "Abandoned Hateno Mine",
+            "link": "Abandoned Hateno Mine"
+          },
+          {
+            "coords": [
+              -1229.94604,
+              1828.02295
+            ],
+            "elv": -521.833191,
+            "id": "MinusField_Kakariko_2",
+            "name": "Abandoned Kakariko Mine",
+            "link": "Abandoned Kakariko Mine"
+          },
+          {
+            "coords": [
+              2660.65991,
+              -1026.323
+            ],
+            "elv": -371.87439,
+            "id": "MinusField_KingValley_1",
+            "name": "Cliff Bargainer Statue",
+            "link": "Cliff Bargainer Statue"
+          },
+          {
+            "coords": [
+              -2426.70605,
+              -3218.25806
+            ],
+            "elv": -422.199493,
+            "id": "MinusField_Oasis_1",
+            "name": "Abandoned Kara Kara Mine",
+            "link": "Abandoned Kara Kara Mine"
+          },
+          {
+            "coords": [
+              1852.85706,
+              -3460.74805
+            ],
+            "elv": -316.61792,
+            "id": "MinusField_Rito_3",
+            "name": "Abandoned Hebra Mine",
+            "link": "Abandoned Hebra Mine"
+          },
+          {
+            "coords": [
+              -3422.90991,
+              2902.3689
+            ],
+            "elv": -349.230408,
+            "id": "MinusField_Taura_3",
+            "name": "Abandoned Lurelin Mine",
+            "link": "Abandoned Lurelin Mine"
+          },
+          {
+            "coords": [
+              1627.75598,
+              3967.43994
+            ],
+            "elv": -553.594971,
+            "id": "MinusField_UMiiVillage_3",
+            "name": "Abandoned Tarrey Mine",
+            "link": "Abandoned Tarrey Mine"
+          },
+          {
+            "coords": [
+              611.38739,
+              3302.38794
+            ],
+            "elv": -478.077515,
+            "id": "MinusField_WhiteZora_1",
+            "name": "Abandoned Lanayru Mine",
+            "link": "Abandoned Lanayru Mine"
+          },
+          {
+            "coords": [
+              -1272.76196,
+              3836.83594
+            ],
+            "elv": -519.015015,
+            "id": "MinusField_WiseFountain",
+            "name": "Wellspring of Wisdom",
+            "link": "Wellspring of Wisdom"
+          }
+        ]
+      },
+      {
+        "minZoom": 5,
+        "markers": [
+          {
+            "coords": [
+              1523.05005,
+              3310.28491
+            ],
+            "elv": -477.744293,
+            "id": "MinusField_AkkareZhai",
+            "name": "Ancient Underground Fortress",
+            "link": "Ancient Underground Fortress"
+          },
+          {
+            "coords": [
+              -1239.05298,
+              -1151.85596
+            ],
+            "elv": -380.520599,
+            "id": "MinusField_AncientColosseum_1",
+            "name": "Floating Coliseum",
+            "link": "Floating Coliseum"
+          },
+          {
+            "coords": [
+              3111.24194,
+              330.971802
+            ],
+            "elv": -457.614685,
+            "id": "MinusField_BlindForest",
+            "name": "Gleeok Den",
+            "link": "Gleeok Den"
+          },
+          {
+            "coords": [
+              -3603.58203,
+              4563.06201
+            ],
+            "elv": -348.303223,
+            "id": "MinusField_Cohorint",
+            "name": "Lone Island Coliseum",
+            "link": "Lone Island Coliseum"
+          },
+          {
+            "coords": [
+              414.823608,
+              1165.19397
+            ],
+            "elv": -532.99353,
+            "id": "MinusField_GashamahiMt_1",
+            "name": "Crenel Canyon Mine",
+            "link": "Crenel Canyon Mine"
+          },
+          {
+            "coords": [
+              -710.392517,
+              -4174.18311
+            ],
+            "elv": -1068.59387,
+            "id": "MinusField_GerudoSummit_1",
+            "name": "Gerudo Canyon Mine",
+            "link": "Gerudo Canyon Mine"
+          },
+          {
+            "coords": [
+              -3611.3811,
+              2557.08398
+            ],
+            "elv": -515.255005,
+            "id": "MinusField_GobyMt",
+            "name": "Tuft Canyon Mine",
+            "link": "Tuft Canyon Mine"
+          },
+          {
+            "coords": [
+              -1877.87,
+              2242.27197
+            ],
+            "elv": -344.902802,
+            "id": "MinusField_HatenoGate",
+            "name": "Secluded Coliseum",
+            "link": "Secluded Coliseum"
+          },
+          {
+            "coords": [
+              1364.33899,
+              -3790.79199
+            ],
+            "elv": -611.025635,
+            "id": "MinusField_HawkMt_1",
+            "name": "Cuho Canyon Mine",
+            "link": "Cuho Canyon Mine"
+          },
+          {
+            "coords": [
+              2897.86597,
+              -2766.56689
+            ],
+            "elv": -874.546814,
+            "id": "MinusField_HeburaPeak",
+            "name": "Hebra Canyon Mine",
+            "link": "Hebra Canyon Mine"
+          },
+          {
+            "coords": [
+              -2229.19995,
+              -1290.349
+            ],
+            "elv": -610.500305,
+            "id": "MinusField_HyliaMt_1",
+            "name": "Hylia Canyon Mine",
+            "link": "Hylia Canyon Mine"
+          },
+          {
+            "coords": [
+              2329.33008,
+              -3336.83398
+            ],
+            "elv": -780.951294,
+            "id": "MinusField_KasuraMt_1",
+            "name": "Corvash Canyon Mine",
+            "link": "Corvash Canyon Mine"
+          },
+          {
+            "coords": [
+              1326.71704,
+              -2006.37402
+            ],
+            "elv": -710.510925,
+            "id": "MinusField_KikinosaMt",
+            "name": "Lindor Canyon Mine",
+            "link": "Lindor Canyon Mine"
+          },
+          {
+            "coords": [
+              -573.932312,
+              -1065.37903
+            ],
+            "elv": -481.392212,
+            "id": "MinusField_KinshoiMt",
+            "name": "Daphnes Canyon Mine",
+            "link": "Daphnes Canyon Mine"
+          },
+          {
+            "coords": [
+              -1360.37805,
+              3964.36011
+            ],
+            "elv": -535.098206,
+            "id": "MinusField_LiveMountain_1",
+            "name": "Lanayru Canyon Mine",
+            "link": "Lanayru Canyon Mine"
+          },
+          {
+            "coords": [
+              3173.77197,
+              2142.92603
+            ],
+            "elv": -714.041199,
+            "id": "MinusField_LizardLake",
+            "name": "Scorching Coliseum",
+            "link": "Scorching Coliseum"
+          },
+          {
+            "coords": [
+              2143.27905,
+              4579.93896
+            ],
+            "elv": -286.299011,
+            "id": "MinusField_MacusePeninsula",
+            "name": "Rist Mine",
+            "link": "Rist Mine"
+          },
+          {
+            "coords": [
+              -3802.06689,
+              -4314.00098
+            ],
+            "elv": -361.151703,
+            "id": "MinusField_SouthGerudoLegacy",
+            "name": "Desert Coliseum",
+            "link": "Desert Coliseum"
+          },
+          {
+            "coords": [
+              -1824.40698,
+              1291.70105
+            ],
+            "elv": -762.24823,
+            "id": "MinusField_TwinsMountain_1",
+            "name": "Dueling Canyons Mine",
+            "link": "Dueling Canyons Mine"
+          },
+          {
+            "coords": [
+              3575,
+              -3399.854
+            ],
+            "elv": -811.004395,
+            "id": "MinusField_FlamingoSpa_1",
+            "name": "Goflam\u0027s Lavafalls",
+            "link": "Goflam\u0027s Lavafalls"
+          },
+          {
+            "coords": [
+              -2366,
+              2253
+            ],
+            "elv": -555,
+            "id": "MinusField_HimeidaSpa",
+            "name": "Meda Lavafalls",
+            "link": "Meda Lavafalls"
+          },
+          {
+            "coords": [
+              -807.168091,
+              457.06131
+            ],
+            "elv": -443.703308,
+            "id": "MinusField_AncientTimeShrine_1",
+            "name": "Plains Bargainer Statue",
+            "link": "Plains Bargainer Statue"
+          },
+          {
+            "coords": [
+              -1861.14697,
+              -730.763672
+            ],
+            "elv": -404.088715,
+            "id": "MinusField_BluePrintShrine",
+            "name": "Great Abandoned Central Mine",
+            "link": "Great Abandoned Central Mine"
+          },
+          {
+            "coords": [
+              3458.82495,
+              3253.96289
+            ],
+            "elv": -319.272888,
+            "id": "MinusField_DokuroPond_1",
+            "name": "Akkala House of Bones",
+            "link": "Akkala House of Bones"
+          },
+          {
+            "coords": [
+              -2889.51709,
+              -3815.90796
+            ],
+            "elv": -382.064514,
+            "id": "MinusField_Gerudo",
+            "name": "Abandoned Gerudo Mine",
+            "link": "Abandoned Gerudo Mine"
+          },
+          {
+            "coords": [
+              2363.86694,
+              1649.13403
+            ],
+            "elv": -748.67688,
+            "id": "MinusField_Goron",
+            "name": "Abandoned Eldin Mine",
+            "link": "Abandoned Eldin Mine"
+          },
+          {
+            "coords": [
+              -2237.18994,
+              3548.60889
+            ],
+            "elv": -476.723785,
+            "id": "MinusField_Hateno_1",
+            "name": "Abandoned Hateno Mine",
+            "link": "Abandoned Hateno Mine"
+          },
+          {
+            "coords": [
+              -1197.85596,
+              1823.92004
+            ],
+            "elv": -521.609802,
+            "id": "MinusField_Kakariko_1",
+            "name": "Abandoned Kakariko Mine",
+            "link": "Abandoned Kakariko Mine"
+          },
+          {
+            "coords": [
+              2679.13989,
+              -1034.04504
+            ],
+            "elv": -237.378906,
+            "id": "MinusField_KingValley",
+            "name": "Cliff Bargainer Statue",
+            "link": "Cliff Bargainer Statue"
+          },
+          {
+            "coords": [
+              -2462.62109,
+              -3226.56201
+            ],
+            "elv": -397.872986,
+            "id": "MinusField_Oasis_3",
+            "name": "Abandoned Kara Kara Mine",
+            "link": "Abandoned Kara Kara Mine"
+          },
+          {
+            "coords": [
+              1862.20105,
+              -3457.40405
+            ],
+            "elv": -315.161194,
+            "id": "MinusField_Rito",
+            "name": "Abandoned Hebra Mine",
+            "link": "Abandoned Hebra Mine"
+          },
+          {
+            "coords": [
+              -3388.32104,
+              2899.82202
+            ],
+            "elv": -344.455597,
+            "id": "MinusField_Taura_2",
+            "name": "Abandoned Lurelin Mine",
+            "link": "Abandoned Lurelin Mine"
+          },
+          {
+            "coords": [
+              1618.93506,
+              3966.71997
+            ],
+            "elv": -553.009277,
+            "id": "MinusField_UMiiVillage_2",
+            "name": "Abandoned Tarrey Mine",
+            "link": "Abandoned Tarrey Mine"
+          },
+          {
+            "coords": [
+              577.841187,
+              3295.01611
+            ],
+            "elv": -593.618286,
+            "id": "MinusField_WhiteZora_2",
+            "name": "Abandoned Lanayru Mine",
+            "link": "Abandoned Lanayru Mine"
+          },
+          {
+            "coords": [
+              -1283.13794,
+              3859.91211
+            ],
+            "elv": -816.170776,
+            "id": "MinusField_WiseFountain_1",
+            "name": "Wellspring of Wisdom",
+            "link": "Wellspring of Wisdom"
+          }
+        ]
+      }
+    ]
+  }
+]

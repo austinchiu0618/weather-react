@@ -1,0 +1,1466 @@
+[
+  {
+    "name": "Dungeon",
+    "source": "summary",
+    "layers": [
+      {
+        "icon": {
+          "url": "windtemple.png",
+          "width": 23,
+          "height": 27
+        },
+        "markers": [
+          {
+            "coords": [
+              3005.5,
+              -2859.5
+            ],
+            "elv": 1411.88904,
+            "id": "LargeDungeonWind",
+            "name": "Wind Temple",
+            "link": "Wind Temple (Tears of the Kingdom)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Shrine",
+    "source": "mapns",
+    "layers": [
+      {
+        "minZoom": 1,
+        "icon": {
+          "url": "shrine.png",
+          "width": 27,
+          "height": 29
+        },
+        "markers": [
+          {
+            "coords": [
+              -2118.70605,
+              -1715.41296
+            ],
+            "elv": 1163.46594,
+            "id": "Dungeon015",
+            "name": "Rakashog Shrine",
+            "link": "Rakashog Shrine"
+          },
+          {
+            "coords": [
+              3535,
+              -970.180725
+            ],
+            "elv": 1025.74597,
+            "id": "Dungeon034",
+            "name": "Tenbez Shrine",
+            "link": "Tenbez Shrine"
+          },
+          {
+            "coords": [
+              2681.52002,
+              -3861.146
+            ],
+            "elv": 716.756714,
+            "id": "Dungeon038",
+            "name": "Ijo-o Shrine",
+            "link": "Ijo-o Shrine"
+          },
+          {
+            "coords": [
+              3050.67505,
+              -2947.91992
+            ],
+            "elv": 910.872986,
+            "id": "Dungeon043",
+            "name": "Mayaumekis Shrine",
+            "link": "Mayaumekis Shrine"
+          },
+          {
+            "coords": [
+              534.321411,
+              2915.87695
+            ],
+            "elv": 965.281006,
+            "id": "Dungeon045",
+            "name": "Jirutagumac Shrine",
+            "link": "Jirutagumac Shrine"
+          },
+          {
+            "coords": [
+              1202.81604,
+              1881.97205
+            ],
+            "elv": 1265.10303,
+            "id": "Dungeon050",
+            "name": "Kadaunar Shrine",
+            "link": "Kadaunar Shrine"
+          },
+          {
+            "coords": [
+              3499.54395,
+              4655
+            ],
+            "elv": 1024.771,
+            "id": "Dungeon052",
+            "name": "Mogisari Shrine",
+            "link": "Mogisari Shrine"
+          },
+          {
+            "coords": [
+              -3294.60107,
+              -1795
+            ],
+            "elv": 1025.29395,
+            "id": "Dungeon055",
+            "name": "Siyamotsus Shrine",
+            "link": "Siyamotsus Shrine"
+          },
+          {
+            "coords": [
+              -912.708374,
+              274.906586
+            ],
+            "elv": 1474.28198,
+            "id": "Dungeon060",
+            "name": "Ukouh Shrine",
+            "link": "Ukouh Shrine"
+          },
+          {
+            "coords": [
+              -1382.68604,
+              709.130005
+            ],
+            "elv": 1598.65002,
+            "id": "Dungeon061",
+            "name": "Gutanbac Shrine",
+            "link": "Gutanbac Shrine"
+          },
+          {
+            "coords": [
+              -1503.59802,
+              26.0671806
+            ],
+            "elv": 1422.75,
+            "id": "Dungeon062",
+            "name": "In-isa Shrine",
+            "link": "In-isa Shrine"
+          },
+          {
+            "coords": [
+              -1661.45398,
+              389.629211
+            ],
+            "elv": 2312.90698,
+            "id": "Dungeon063",
+            "name": "Nachoyah Shrine",
+            "link": "Nachoyah Shrine"
+          },
+          {
+            "coords": [
+              -947.126282,
+              4613.31396
+            ],
+            "elv": 1803.90002,
+            "id": "Dungeon066",
+            "name": "Mayanas Shrine",
+            "link": "Mayanas Shrine"
+          },
+          {
+            "coords": [
+              665.878479,
+              3480.70801
+            ],
+            "elv": 1339.63306,
+            "id": "Dungeon069",
+            "name": "Igoshon Shrine",
+            "link": "Igoshon Shrine"
+          },
+          {
+            "coords": [
+              -3347.77197,
+              1075.276
+            ],
+            "elv": 800.122375,
+            "id": "Dungeon071",
+            "name": "Joku-usin Shrine",
+            "link": "Joku-usin Shrine"
+          },
+          {
+            "coords": [
+              1971.65503,
+              162.467102
+            ],
+            "elv": 772.924988,
+            "id": "Dungeon082",
+            "name": "Simosiwak Shrine",
+            "link": "Simosiwak Shrine"
+          },
+          {
+            "coords": [
+              -1782.80701,
+              2350.98999
+            ],
+            "elv": 1489.75598,
+            "id": "Dungeon083",
+            "name": "Yansamin Shrine",
+            "link": "Yansamin Shrine"
+          },
+          {
+            "coords": [
+              -2856.47412,
+              2856.8479
+            ],
+            "elv": 1226.02502,
+            "id": "Dungeon093",
+            "name": "Kumamayn Shrine",
+            "link": "Kumamayn Shrine"
+          },
+          {
+            "coords": [
+              2166.01611,
+              4505.99707
+            ],
+            "elv": 1169.021,
+            "id": "Dungeon099",
+            "name": "Gikaku Shrine",
+            "link": "Gikaku Shrine"
+          },
+          {
+            "coords": [
+              3431.5061,
+              -3296.0061
+            ],
+            "elv": 1361.74902,
+            "id": "Dungeon105",
+            "name": "Kahatanaum Shrine",
+            "link": "Kahatanaum Shrine"
+          },
+          {
+            "coords": [
+              -3339.86011,
+              1376.40796
+            ],
+            "elv": 443.013916,
+            "id": "Dungeon109",
+            "name": "Joku-u Shrine",
+            "link": "Joku-u Shrine"
+          },
+          {
+            "coords": [
+              1483.69702,
+              3670.69995
+            ],
+            "elv": 1171.90002,
+            "id": "Dungeon110",
+            "name": "Natak Shrine",
+            "link": "Natak Shrine"
+          },
+          {
+            "coords": [
+              467.490204,
+              -3369.64502
+            ],
+            "elv": 1709.48206,
+            "id": "Dungeon117",
+            "name": "Ganos Shrine",
+            "link": "Ganos Shrine"
+          },
+          {
+            "coords": [
+              825.227112,
+              -2401.84399
+            ],
+            "elv": 629.317871,
+            "id": "Dungeon121",
+            "name": "Taunhiy Shrine",
+            "link": "Taunhiy Shrine"
+          },
+          {
+            "coords": [
+              -1208.38403,
+              1758.48901
+            ],
+            "elv": 937.964966,
+            "id": "Dungeon127",
+            "name": "Josiu Shrine",
+            "link": "Josiu Shrine"
+          },
+          {
+            "coords": [
+              960.786926,
+              -3596.14697
+            ],
+            "elv": 1712.96899,
+            "id": "Dungeon128",
+            "name": "Ga-ahisas Shrine",
+            "link": "Ga-ahisas Shrine"
+          },
+          {
+            "coords": [
+              -1486.95898,
+              -1257.24097
+            ],
+            "elv": 1022.16797,
+            "id": "Dungeon145",
+            "name": "Jinodok Shrine",
+            "link": "Jinodok Shrine"
+          },
+          {
+            "coords": [
+              -846.094788,
+              4545.81592
+            ],
+            "elv": 1134.94299,
+            "id": "Dungeon146",
+            "name": "Sihajog Shrine",
+            "link": "Sihajog Shrine"
+          },
+          {
+            "coords": [
+              -320.654785,
+              -3546.68188
+            ],
+            "elv": 1978.98706,
+            "id": "Dungeon148",
+            "name": "Mayasiar Shrine",
+            "link": "Mayasiar Shrine"
+          },
+          {
+            "coords": [
+              2814.73193,
+              340.393707
+            ],
+            "elv": 1834.90002,
+            "id": "Dungeon149",
+            "name": "Mayam Shrine",
+            "link": "Mayam Shrine"
+          },
+          {
+            "coords": [
+              -2168.89307,
+              1468.61096
+            ],
+            "elv": 599.813171,
+            "id": "Dungeon150",
+            "name": "Ukoojisi Shrine",
+            "link": "Ukoojisi Shrine"
+          },
+          {
+            "coords": [
+              3406.80688,
+              -1802.01697
+            ],
+            "elv": 962.900024,
+            "id": "Dungeon151",
+            "name": "Taninoud Shrine",
+            "link": "Taninoud Shrine"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Device Dispenser",
+    "source": "mapns",
+    "layers": [
+      {
+        "minZoom": 2,
+        "icon": {
+          "url": "dispenser.png",
+          "width": 36,
+          "height": 36
+        },
+        "markers": [
+          {
+            "coords": [
+              -3331.83594,
+              1104.48096
+            ],
+            "elv": 827.964417,
+            "id": "RBox_Field_K",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              -3239.02393,
+              1390.92102
+            ],
+            "elv": 417.46228,
+            "id": "RBox_Field_J_02",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              636.958679,
+              3430.19995
+            ],
+            "elv": 1316.59998,
+            "id": "RBox_Field_C",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              1542.74402,
+              3755.34302
+            ],
+            "elv": 1157.479,
+            "id": "RBox_Field_L",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              2076.31299,
+              4557.78711
+            ],
+            "elv": 1154.60095,
+            "id": "RBox_Field_Q",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              -1585.25,
+              -1212.88696
+            ],
+            "elv": 1007.427,
+            "id": "RBox_Field_D_02",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              1221.95398,
+              1983.38501
+            ],
+            "elv": 1250.68298,
+            "id": "RBox_Field_F",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              -2151.28003,
+              1344.17297
+            ],
+            "elv": 584.979492,
+            "id": "RBox_Field_J",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              -1718.797,
+              2320.98999
+            ],
+            "elv": 1485.18994,
+            "id": "RBox_Field_T",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              -2958.55688,
+              2851.89404
+            ],
+            "elv": 1211.604,
+            "id": "RBox_Field_K_02",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              -373.696289,
+              -3457.10107
+            ],
+            "elv": 1943.49512,
+            "id": "RBox_Field_I",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              -2019.26196,
+              -1771.54102
+            ],
+            "elv": 1148.479,
+            "id": "RBox_Field_H",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              3371.39404,
+              -1705.07996
+            ],
+            "elv": 948.479004,
+            "id": "RBox_Field_E_02",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              2821.77197,
+              443.356415
+            ],
+            "elv": 1820.479,
+            "id": "RBox_Field_M",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              1981.922,
+              215.118103
+            ],
+            "elv": 754.686523,
+            "id": "RBox_Field_M_02",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              781.661316,
+              -2370.5459
+            ],
+            "elv": 611.079407,
+            "id": "RBox_Field_D",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              -1096.44604,
+              1778.38098
+            ],
+            "elv": 917.69397,
+            "id": "RBox_Field_R",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              -805.631409,
+              4510.59912
+            ],
+            "elv": 1116.70398,
+            "id": "RBox_Field_G",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              -1029.63098,
+              4675.31299
+            ],
+            "elv": 1789.479,
+            "id": "RBox_Field_N",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              2766.93994,
+              -3803.229
+            ],
+            "elv": 702.336182,
+            "id": "RBox_Field_E",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              393.579987,
+              -3455.31201
+            ],
+            "elv": 1694.55298,
+            "id": "RBox_Field_I_02",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              1066.37598,
+              -3612.14502
+            ],
+            "elv": 1656.08398,
+            "id": "RBox_Field_S",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              502.278412,
+              2915.65698
+            ],
+            "elv": 950.860962,
+            "id": "RBox_Field_G_02",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              -1686.18506,
+              435.444305
+            ],
+            "elv": 1442.82104,
+            "id": "RBox_Field_A",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          },
+          {
+            "coords": [
+              -1259.54004,
+              769.09198
+            ],
+            "elv": 1579.45898,
+            "id": "RBox_Field_B",
+            "name": "Device Dispenser",
+            "link": "Device Dispenser"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zonai Relief",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 2,
+        "icon": {
+          "url": "relief.png",
+          "width": 27,
+          "height": 27
+        },
+        "markers": [
+          {
+            "coords": [
+              989.48468,
+              2217.23291
+            ],
+            "elv": 1149.5,
+            "id": "ZonauRelief_03",
+            "name": "Zonai Relief",
+            "link": "Zonai Relief"
+          },
+          {
+            "coords": [
+              202.914307,
+              2914.51294
+            ],
+            "elv": 802.5,
+            "id": "ZonauRelief_04",
+            "name": "Zonai Relief",
+            "link": "Zonai Relief"
+          },
+          {
+            "coords": [
+              3203.80005,
+              -4042.04712
+            ],
+            "elv": 452.5,
+            "id": "ZonauRelief_05",
+            "name": "Zonai Relief",
+            "link": "Zonai Relief"
+          },
+          {
+            "coords": [
+              3574.62109,
+              -1365.83899
+            ],
+            "elv": 911.5,
+            "id": "ZonauRelief_06",
+            "name": "Zonai Relief",
+            "link": "Zonai Relief"
+          },
+          {
+            "coords": [
+              -2249.32202,
+              480.851898
+            ],
+            "elv": 401.5,
+            "id": "ZonauRelief_07",
+            "name": "Zonai Relief",
+            "link": "Zonai Relief"
+          },
+          {
+            "coords": [
+              -3256.55103,
+              -2446.802
+            ],
+            "elv": 1002.84705,
+            "id": "ZonauRelief_08",
+            "name": "Zonai Relief",
+            "link": "Zonai Relief"
+          },
+          {
+            "coords": [
+              -2731.12793,
+              2082.84912
+            ],
+            "elv": 1342.83496,
+            "id": "ZonauRelief_09",
+            "name": "Zonai Relief",
+            "link": "Zonai Relief"
+          },
+          {
+            "coords": [
+              -2470.80811,
+              3918.62109
+            ],
+            "elv": 1202.84302,
+            "id": "ZonauRelief_10",
+            "name": "Zonai Relief",
+            "link": "Zonai Relief"
+          },
+          {
+            "coords": [
+              -934.755371,
+              -3605.47095
+            ],
+            "elv": 1596.52698,
+            "id": "ZonauRelief_11",
+            "name": "Zonai Relief",
+            "link": "Zonai Relief"
+          },
+          {
+            "coords": [
+              2991.76001,
+              -44.9802513
+            ],
+            "elv": 1502.82996,
+            "id": "ZonauRelief_12",
+            "name": "Zonai Relief",
+            "link": "Zonai Relief"
+          },
+          {
+            "coords": [
+              -1937.07898,
+              -1239.02502
+            ],
+            "elv": 986.817993,
+            "id": "ZonauRelief_13",
+            "name": "Zonai Relief",
+            "link": "Zonai Relief"
+          },
+          {
+            "coords": [
+              1749.729,
+              3580.198
+            ],
+            "elv": 1361.82996,
+            "id": "ZonauRelief_14",
+            "name": "Zonai Relief",
+            "link": "Zonai Relief"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "General Store",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 5,
+        "icon": {
+          "url": "general.png",
+          "width": 29,
+          "height": 29
+        },
+        "markers": [
+          {
+            "coords": [
+              -1685.69604,
+              470.04071
+            ],
+            "elv": 1371.31799,
+            "id": "SmeltShopGolem_00",
+            "name": "Forge Construct",
+            "link": "Forge Construct"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Other Shops",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 5,
+        "icon": {
+          "url": "battery.png",
+          "width": 29,
+          "height": 29
+        },
+        "markers": [
+          {
+            "coords": [
+              -1651.34399,
+              357.168396
+            ],
+            "elv": 2305.96191,
+            "id": "BatteryExchangeShop_00",
+            "name": "Crystal Refinery",
+            "link": "Crystal Refinery"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Cave",
+    "source": "summary",
+    "layers": [
+      {
+        "minZoom": 5,
+        "icon": {
+          "url": "cave.png",
+          "width": 25,
+          "height": 26
+        },
+        "markers": [
+          {
+            "coords": [
+              -1449.099,
+              711.581421
+            ],
+            "elv": 1486.06201,
+            "id": "Cave_CentralHyrule_0011",
+            "name": "Bottomless Cave",
+            "link": "Bottomless Cave"
+          },
+          {
+            "coords": [
+              -1358.02502,
+              739.095703
+            ],
+            "elv": 1542.75903,
+            "id": "Cave_CentralHyrule_00111",
+            "name": "Bottomless Cave",
+            "link": "Bottomless Cave"
+          },
+          {
+            "coords": [
+              -1638.81104,
+              632.279785
+            ],
+            "elv": 1483.91895,
+            "id": "Cave_CentralHyrule_0013",
+            "name": "Pit Cave",
+            "link": "Pit Cave"
+          },
+          {
+            "coords": [
+              -1624.505,
+              587.419128
+            ],
+            "elv": 1443.04297,
+            "id": "Cave_CentralHyrule_00131",
+            "name": "Pit Cave",
+            "link": "Pit Cave"
+          },
+          {
+            "coords": [
+              -1633.77295,
+              170.516602
+            ],
+            "elv": 1377.81494,
+            "id": "Cave_CentralHyrule_0017",
+            "name": "Pondside Cave",
+            "link": "Pondside Cave"
+          },
+          {
+            "coords": [
+              -1557.83801,
+              260.154694
+            ],
+            "elv": 1361.72705,
+            "id": "Cave_CentralHyrule_00171",
+            "name": "Pondside Cave",
+            "link": "Pondside Cave"
+          },
+          {
+            "coords": [
+              -1631.64697,
+              380.059998
+            ],
+            "elv": 1411.65002,
+            "id": "Cave_CentralHyrule_0019",
+            "name": "Mining Cave",
+            "link": "Mining Cave"
+          },
+          {
+            "coords": [
+              -1625.62195,
+              489.663391
+            ],
+            "elv": 1368.25,
+            "id": "Cave_CentralHyrule_00191",
+            "name": "Mining Cave",
+            "link": "Mining Cave"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Location",
+    "layers": [
+      {
+        "minZoom": 0,
+        "maxZoom": 1,
+        "markers": [
+          {
+            "coords": [
+              2088.80908,
+              1978.94897
+            ],
+            "elv": 1895,
+            "id": "MapRegion_Eldin_Sky",
+            "name": "Eldin Sky",
+            "link": "Eldin Sky"
+          },
+          {
+            "coords": [
+              -2825.31592,
+              969.328186
+            ],
+            "elv": 895,
+            "id": "MapRegion_Firone_Sky",
+            "name": "Faron Sky",
+            "link": "Faron Sky"
+          },
+          {
+            "coords": [
+              -2759.06494,
+              -3624.86792
+            ],
+            "elv": 1895,
+            "id": "MapRegion_Gerudo_Sky",
+            "name": "Gerudo Sky",
+            "link": "Gerudo Sky"
+          },
+          {
+            "coords": [
+              -1964.22803,
+              2642.646
+            ],
+            "elv": 1895,
+            "id": "MapRegion_Hateru_Sky",
+            "name": "Necluda Sky",
+            "link": "Necluda Sky"
+          },
+          {
+            "coords": [
+              2442.13599,
+              -3357.823
+            ],
+            "elv": 895,
+            "id": "MapRegion_Hebura_Sky",
+            "name": "Hebra Sky",
+            "link": "Hebra Sky"
+          },
+          {
+            "coords": [
+              77.9341965,
+              -247.977493
+            ],
+            "elv": 1895,
+            "id": "MapRegion_HyrulePrairie_Sky",
+            "name": "Central Hyrule Sky",
+            "link": "Central Hyrule Sky"
+          },
+          {
+            "coords": [
+              -499.824188,
+              3174.93311
+            ],
+            "elv": 1895,
+            "id": "MapRegion_Lanayru_Sky",
+            "name": "Lanayru Sky",
+            "link": "Lanayru Sky"
+          },
+          {
+            "coords": [
+              2575.97803,
+              3950.05908
+            ],
+            "elv": 1895,
+            "id": "MapRegion_Tamul_Sky",
+            "name": "Akkala Sky",
+            "link": "Akkala Sky"
+          }
+        ]
+      },
+      {
+        "minZoom": 2,
+        "maxZoom": 3,
+        "markers": [
+          {
+            "coords": [
+              -1259.854,
+              394.47699
+            ],
+            "elv": 1832.45703,
+            "id": "BeginningIsland",
+            "name": "Great Sky Island",
+            "link": "Great Sky Island"
+          },
+          {
+            "coords": [
+              3215,
+              -3156
+            ],
+            "elv": 1895,
+            "id": "Rito_SkyHighIsland",
+            "name": "Rising Island Chain",
+            "link": "Rising Island Chain"
+          },
+          {
+            "coords": [
+              2705.5,
+              1777
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Eldin01",
+            "name": "Eldin Sky Archipelago",
+            "link": "Eldin Sky Archipelago"
+          },
+          {
+            "coords": [
+              798.7323,
+              1924.84094
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Eldin02",
+            "name": "South Eldin Sky Archipelago",
+            "link": "South Eldin Sky Archipelago"
+          },
+          {
+            "coords": [
+              -2751.13208,
+              -68.0329895
+            ],
+            "elv": 895,
+            "id": "SkyIslands_Firone01",
+            "name": "Faron Sky Archipelago",
+            "link": "Faron Sky Archipelago"
+          },
+          {
+            "coords": [
+              -2346.83594,
+              1295.38696
+            ],
+            "elv": 1896.62903,
+            "id": "SkyIslands_Firone02",
+            "name": "West Necluda Sky Archipelago",
+            "link": "West Necluda Sky Archipelago"
+          },
+          {
+            "coords": [
+              -2316.17505,
+              -1866.29797
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Gerudo01",
+            "name": "East Gerudo Sky Archipelago",
+            "link": "East Gerudo Sky Archipelago"
+          },
+          {
+            "coords": [
+              -607.929199,
+              -3573.16089
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Gerudo02",
+            "name": "North Gerudo Sky Archipelago",
+            "link": "North Gerudo Sky Archipelago"
+          },
+          {
+            "coords": [
+              -2270.68311,
+              2540.85791
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Hateru01",
+            "name": "Necluda Sky Archipelago",
+            "link": "Necluda Sky Archipelago"
+          },
+          {
+            "coords": [
+              -3751.43799,
+              2559.24609
+            ],
+            "elv": 895,
+            "id": "SkyIslands_Hateru02",
+            "name": "South Necluda Sky Archipelago",
+            "link": "South Necluda Sky Archipelago"
+          },
+          {
+            "coords": [
+              3171.40088,
+              -1729.46802
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Hebra02",
+            "name": "East Hebra Sky Archipelago",
+            "link": "East Hebra Sky Archipelago"
+          },
+          {
+            "coords": [
+              2019.06006,
+              -3136.99194
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Hebra03",
+            "name": "South Hebra Sky Archipelago",
+            "link": "South Hebra Sky Archipelago"
+          },
+          {
+            "coords": [
+              2300,
+              -3845.8479
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Hebra04",
+            "name": "West Hebra Sky Archipelago",
+            "link": "West Hebra Sky Archipelago"
+          },
+          {
+            "coords": [
+              -92.0400085,
+              131.830994
+            ],
+            "elv": 1949.729,
+            "id": "SkyIslands_Hyrule01",
+            "name": "Central Hyrule Sky Archipelago",
+            "link": "Central Hyrule Sky Archipelago"
+          },
+          {
+            "coords": [
+              -864.054016,
+              1795.11694
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Hyrule02",
+            "name": "North Necluda Sky Archipelago",
+            "link": "North Necluda Sky Archipelago"
+          },
+          {
+            "coords": [
+              -1380,
+              -901.231018
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Hyrule03",
+            "name": "South Hyrule Sky Archipelago",
+            "link": "South Hyrule Sky Archipelago"
+          },
+          {
+            "coords": [
+              2354.2981,
+              349.932098
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Hyrule04",
+            "name": "North Hyrule Sky Archipelago",
+            "link": "North Hyrule Sky Archipelago"
+          },
+          {
+            "coords": [
+              -538.689514,
+              -2292.01611
+            ],
+            "elv": 895,
+            "id": "SkyIslands_Hyrule05",
+            "name": "West Hyrule Sky Archipelago",
+            "link": "West Hyrule Sky Archipelago"
+          },
+          {
+            "coords": [
+              -1254.57202,
+              4368.396
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Lanayru02",
+            "name": "South Lanayru Sky Archipelago",
+            "link": "South Lanayru Sky Archipelago"
+          },
+          {
+            "coords": [
+              83.1964417,
+              3010.07202
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Lanayru03",
+            "name": "Lanayru Sky Archipelago",
+            "link": "Lanayru Sky Archipelago"
+          },
+          {
+            "coords": [
+              558.388123,
+              -2942.51904
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Tabanta01",
+            "name": "Tabantha Sky Archipelago",
+            "link": "Tabantha Sky Archipelago"
+          },
+          {
+            "coords": [
+              1333.85999,
+              -3600.50391
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Tabanta02",
+            "name": "North Tabantha Sky Archipelago",
+            "link": "North Tabantha Sky Archipelago"
+          },
+          {
+            "coords": [
+              1688.58606,
+              3738.98706
+            ],
+            "elv": 1895,
+            "id": "SkyIslands_Tamul01",
+            "name": "Sokkala Sky Archipelago",
+            "link": "Sokkala Sky Archipelago"
+          },
+          {
+            "coords": [
+              2998.64697,
+              3703.70996
+            ],
+            "elv": 1745,
+            "id": "SkyIslands_Tamul02",
+            "name": "North Akkala Sky Archipelago",
+            "link": "North Akkala Sky Archipelago"
+          },
+          {
+            "coords": [
+              -3064.65796,
+              911.687988
+            ],
+            "elv": 1895,
+            "id": "ZonauThunderSkyIsland",
+            "name": "Thunderhead Isles",
+            "link": "Thunderhead Isles"
+          }
+        ]
+      },
+      {
+        "minZoom": 4,
+        "markers": [
+          {
+            "coords": [
+              -800.345215,
+              453.459412
+            ],
+            "elv": 1556.55005,
+            "id": "AncientTimeShrine",
+            "name": "Temple of Time",
+            "link": "Temple of Time"
+          },
+          {
+            "coords": [
+              535.5,
+              3520.25
+            ],
+            "elv": 1895,
+            "id": "EX_LowGravityIsland",
+            "name": "Wellspring Island",
+            "link": "Wellspring Island"
+          },
+          {
+            "coords": [
+              2129.32593,
+              4603.17383
+            ],
+            "elv": 1302.53101,
+            "id": "SkyIsland0004",
+            "name": "Sky Mine",
+            "link": "Sky Mine"
+          },
+          {
+            "coords": [
+              1032,
+              -3607.17407
+            ],
+            "elv": 1895,
+            "id": "SkyIsland0009",
+            "name": "Lightcast Island",
+            "link": "Lightcast Island"
+          },
+          {
+            "coords": [
+              3370,
+              -825
+            ],
+            "elv": 1185,
+            "id": "SkyIsland0012",
+            "name": "North Lomei Castle Top Floor",
+            "link": "North Lomei Castle Top Floor"
+          },
+          {
+            "coords": [
+              -3605.5,
+              -1795
+            ],
+            "elv": 1185.61597,
+            "id": "SkyIsland0013",
+            "name": "South Lomei Castle Top Floor",
+            "link": "South Lomei Castle Top Floor"
+          },
+          {
+            "coords": [
+              3789.02808,
+              4656.19922
+            ],
+            "elv": 1008.29004,
+            "id": "SkyIsland0014",
+            "name": "Lomei Sky Labyrinth",
+            "link": "Lomei Sky Labyrinth"
+          },
+          {
+            "coords": [
+              -3380.75,
+              1460
+            ],
+            "elv": 1895,
+            "id": "ZonauTriedForceSkyIsland",
+            "name": "Dragonhead Island",
+            "link": "Dragonhead Island"
+          },
+          {
+            "coords": [
+              535.534119,
+              4077.05493
+            ],
+            "elv": 896,
+            "id": "Zora_FishIsland",
+            "name": "Floating Scales Island",
+            "link": "Floating Scales Island"
+          }
+        ]
+      },
+      {
+        "minZoom": 4,
+        "maxZoom": 4,
+        "markers": [
+          {
+            "coords": [
+              728,
+              -2265.99609
+            ],
+            "elv": 1895,
+            "id": "SkyIsland0001",
+            "name": "Courage Island",
+            "link": "Courage Island"
+          },
+          {
+            "coords": [
+              1915,
+              204.553802
+            ],
+            "elv": 1984.6499,
+            "id": "SkyIsland0002_1",
+            "name": "Bravery Island",
+            "link": "Bravery Island"
+          },
+          {
+            "coords": [
+              -906.612122,
+              4562.08008
+            ],
+            "elv": 1619.021,
+            "id": "SkyIsland0003_1",
+            "name": "Valor Island",
+            "link": "Valor Island"
+          },
+          {
+            "coords": [
+              -1879,
+              2349.04395
+            ],
+            "elv": 10895,
+            "id": "SkyIsland0010_1",
+            "name": "Zonaite Forge Island",
+            "link": "Zonaite Forge Island"
+          },
+          {
+            "coords": [
+              -264,
+              -3488
+            ],
+            "elv": 1895,
+            "id": "SkyIsland0011_1",
+            "name": "Starview Island",
+            "link": "Starview Island"
+          }
+        ]
+      },
+      {
+        "minZoom": 5,
+        "markers": [
+          {
+            "coords": [
+              745,
+              -2265.99609
+            ],
+            "elv": 1895,
+            "id": "SkyIsland0001_1",
+            "name": "Courage Island",
+            "link": "Courage Island"
+          },
+          {
+            "coords": [
+              1937,
+              206.705994
+            ],
+            "elv": 1984.6499,
+            "id": "SkyIsland0002",
+            "name": "Bravery Island",
+            "link": "Bravery Island"
+          },
+          {
+            "coords": [
+              -919.46167,
+              4579.10986
+            ],
+            "elv": 2619.021,
+            "id": "SkyIsland0003",
+            "name": "Valor Island",
+            "link": "Valor Island"
+          },
+          {
+            "coords": [
+              -1869.34998,
+              2349.01904
+            ],
+            "elv": 10894.9902,
+            "id": "SkyIsland0010",
+            "name": "Zonaite Forge Island",
+            "link": "Zonaite Forge Island"
+          },
+          {
+            "coords": [
+              -317,
+              -3488.5
+            ],
+            "elv": 1906.71497,
+            "id": "SkyIsland0011",
+            "name": "Starview Island",
+            "link": "Starview Island"
+          }
+        ]
+      }
+    ]
+  }
+]
